@@ -9,27 +9,27 @@ I am a passionate **learner** and an aspiring **developer** who loves exploring 
 Here’s what I have experience with:
 
 - **Languages**  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white&labelColor=2c3e50)
+  ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white&labelColor=2c3e50)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&labelColor=2c3e50)
 
 - **Web Development**  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white&labelColor=2c3e50)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white&labelColor=2c3e50)
 
 - **Database**  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&labelColor=2c3e50)
 
 - **Machine Learning (ML)**  
-  ![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+  ![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=plastic&logo=python&logoColor=white&labelColor=2c3e50)
 
 - **Productivity Tools**  
-  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white)
-  ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-D83B01?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B5797?style=plastic&logo=microsoftword&logoColor=white&labelColor=2c3e50)
+  ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=plastic&logo=google&logoColor=white&labelColor=2c3e50)
+  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-D83B01?style=plastic&logo=microsoftpowerpoint&logoColor=white&labelColor=2c3e50)
 
 - **AI Tools**  
-  ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+  ![AI](https://img.shields.io/badge/AI-000000?style=plastic&logo=artificial-intelligence&logoColor=white&labelColor=2c3e50)
 
 ---
 
