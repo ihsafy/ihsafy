@@ -1,4 +1,4 @@
-## Hi  👋
+## Hi there 👋
 
 I'm **IH Safy**, currently a student of the **CSE Department** at **East West University**, Dhaka, Bangladesh.  
 I am a passionate **learner** and an aspiring **developer** who loves exploring new technologies and improving my skills.
@@ -20,12 +20,16 @@ Here’s what I have experience with:
 - **Database**  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+- **Machine Learning (ML)**  
+  ![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 
 ### 🌟 About Me
 - 🎓 I am a **curious learner**, always looking to expand my knowledge and work on challenging projects.
 - 🌱 Currently, I am learning **advanced algorithms**, **data structures**, and **AI concepts** to enhance my technical skills.
 - 🔭 I enjoy building **Java Swing-based applications**, experimenting with **Python scripts**, and developing **simple web applications**.
+- 🚀 I'm **highly interested in Machine Learning (ML)** and aspire to work on **AI-driven projects**.
 - ⚡ **Fun fact:** I love spending time near the ocean 🌊 and practicing **archery** 🏹.
 
 ---
@@ -38,7 +42,7 @@ Here’s what I have experience with:
 ---
 
 ### 🚀 Recent Contributions
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ihsafy&theme=redical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ihsafy&theme=redical)
 
 ---
 
