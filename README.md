@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi  👋
 
 I'm **IH Safy**, currently a student of the **CSE Department** at **East West University**, Dhaka, Bangladesh.  
 I am a passionate **learner** and an aspiring **developer** who loves exploring new technologies and improving my skills.
+
+---
 
 ### 🛠️ Skills & Technologies
 Here’s what I have experience with:
@@ -25,6 +27,18 @@ Here’s what I have experience with:
 - 🌱 Currently, I am learning **advanced algorithms**, **data structures**, and **AI concepts** to enhance my technical skills.
 - 🔭 I enjoy building **Java Swing-based applications**, experimenting with **Python scripts**, and developing **simple web applications**.
 - ⚡ **Fun fact:** I love spending time near the ocean 🌊 and practicing **archery** 🏹.
+
+---
+
+### 📊 GitHub Activity
+![IH Safy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=radical)
+
+---
+
+### 🚀 Recent Contributions
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ihsafy&theme=redical)
 
 ---
 
