@@ -41,11 +41,6 @@ Here’s what I have experience with:
 
 ---
 
-### 🚀 Recent Contributions
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ihsafy&theme=redical)
-
----
-
 ### 🚀 My Goals
 - Contribute to **open-source projects** to help the developer community.
 - Build impactful projects in **AI**, **data science**, and **web development**.
