@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**ihsafy/ihsafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **IH Safy**, currently a student of the **CSE Department** at **East West University**, Dhaka, Bangladesh.  
+I am a passionate **learner** and an aspiring **developer** who loves exploring new technologies and improving my skills.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Technologies
+Here’s what I have experience with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **Web Development**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Database**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🌟 About Me
+- 🎓 I am a **curious learner**, always looking to expand my knowledge and work on challenging projects.
+- 🌱 Currently, I am learning **advanced algorithms**, **data structures**, and **AI concepts** to enhance my technical skills.
+- 🔭 I enjoy building **Java Swing-based applications**, experimenting with **Python scripts**, and developing **simple web applications**.
+- ⚡ **Fun fact:** I love spending time near the ocean 🌊 and practicing **archery** 🏹.
+
+---
+
+### 🚀 My Goals
+- Contribute to **open-source projects** to help the developer community.
+- Build impactful projects in **AI**, **data science**, and **web development**.
+- Collaborate with developers to create innovative and meaningful solutions.
+- Become proficient in **full-stack development** and **machine learning**.
+
+---
+
+### 📫 Connect with Me
+Feel free to reach out to me:
+- 📧 Email: [ihsafy2k21@gmail.com](mailto:ihsafy2k21@gmail.com)
+- 💻 [GitHub Profile](https://github.com/ihsafy)
+
+---
+
+✨ _“Every day is an opportunity to learn something new and become a better version of yourself.”_ ✨
