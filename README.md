@@ -23,6 +23,14 @@ Here’s what I have experience with:
 - **Machine Learning (ML)**  
   ![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 
+- **Productivity Tools**  
+  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B5797?style=for-the-badge&logo=microsoftword&logoColor=white)
+  ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-D83B01?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+- **AI Tools**  
+  ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+
 ---
 
 ### 🌟 About Me
