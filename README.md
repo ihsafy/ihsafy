@@ -29,7 +29,10 @@ Here’s what I have experience with:
   ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-D83B01?style=plastic&logo=microsoftpowerpoint&logoColor=white&labelColor=2c3e50)
 
 - **AI Tools**  
-  ![AI](https://img.shields.io/badge/AI-000000?style=plastic&logo=artificial-intelligence&logoColor=white&labelColor=2c3e50)
+  ![ChatGPT](https://img.shields.io/badge/ChatGPT-34A853?style=plastic&logo=openai&logoColor=white&labelColor=2c3e50)
+  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=plastic&logo=google&logoColor=white&labelColor=2c3e50)
+  ![Napkin AI](https://img.shields.io/badge/Napkin_AI-FF6F61?style=plastic&logo=artificial-intelligence&logoColor=white&labelColor=2c3e50)
+  ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=plastic&logo=artificial-intelligence&logoColor=white&labelColor=2c3e50)
 
 ---
 
