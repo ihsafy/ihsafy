@@ -1,120 +1,83 @@
-<h1 align="center">Hi 👋, I'm Md. Tafsiruzzaman</h1>
-<h3 align="center">Aspiring Software Engineer | Competitive Programmer</h3>
+<h1 align="center">
+  Hi there 👋, I'm <span style="color:#58a6ff;">IH Safy</span>
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tafsiruzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=CSE+Student+at+East+West+University;Aspiring+AI+%26+ML+Developer;Computer+Vision+%7C+Image+Processing;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <a href="mailto:tafsirjaman100@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/tafsiruzzaman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38"/></a>
-  <a href="https://leetcode.com/u/tafsiruzzaman/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="28" width="38"/></a>
-  <a href="https://codeforces.com/profile/tafsiruzzaman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="28" width="38"/></a>
-  <a href="https://www.codechef.com/users/tafsiruzzaman" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" height="28" width="38" style="filter: invert(0.7);"/></a>
-  <a href="https://github.com/tafsiruzzaman" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="28" width="38" style="filter: invert(0.7);"/></a>
-  	<a href="https://atcoder.jp/users/tafsiruzzaman" target="_blank"><img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" height="28" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ihsafy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
+## 🚀 About Me
+- 🎓 **CSE student** at **East West University**, Dhaka, Bangladesh  
+- 🌱 Learning **Advanced Algorithms, Data Structures, ML & AI**
+- 🔭 Interested in **Machine Learning, Image Processing & Computer Vision**
+- 🧠 Experienced in **Image Detection & Classification**
+- ⚡ Fun fact: I enjoy **ocean views 🌊** and **archery 🏹**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/Server--Side_PHP-777BB4?style=plastic&logo=php&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=plastic)
+![Image Processing](https://img.shields.io/badge/Image_Processing-6A5ACD?style=plastic&logo=opencv)
+![Image Detection](https://img.shields.io/badge/Image_Detection-0A9396?style=plastic)
+![Image Classification](https://img.shields.io/badge/Image_Classification-005F73?style=plastic)
+![LLM](https://img.shields.io/badge/LLM_Applications-9B2226?style=plastic&logo=openai)
+
+### 🧰 Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-34A853?style=plastic&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=plastic&logo=google)
+![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=plastic)
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <b>Passionate about algorithms, coding contests, and building robust problem-solving skills for real-world tech challenges.</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=tokyo-night" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🎓 **CSE Undergrad** at East West University
-- 🏆 **2200+ problems solved** across LeetCode, Codeforces, CodeChef
-- 🏅 **2x ICPC Regionalist** | **Meta Hacker Cup** Round 2 | Multiple contest Champion
-- 🤖 Enthusiastic about **Machine Learning & AI** — exploring projects on Kaggle & Colab
-- 🤝 Eager to explore the world of software engineering and contribute to impactful projects
+## 🎯 Goals
+- ✅ Contribute to **Open Source**
+- 🧠 Build **AI & ML projects**
+- 🖼️ Specialize in **Computer Vision**
+- 🌐 Become a **Full-Stack + ML Engineer**
 
 ---
 
-### 🏅 Highlights
-
-<table>
-<tr>
-  <td align="center">
-    <a href="https://leetcode.com/u/tafsiruzzaman/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="26" width="26"/><br/>
-      <sub>Knight</sub>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://codeforces.com/profile/tafsiruzzaman">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="26" width="26"/><br/>
-      <sub>Specialist</sub>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://www.codechef.com/users/tafsiruzzaman">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" height="26" width="26" style="filter: invert(0.7);"/><br/>
-      <sub>3★ Coder</sub>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg7TAIxF9K3Gi9NOjcqjjM9R7_J3C3mgs1-A&s" alt="ICPC" height="26" width="26"/><br/>
-      <sub>2x </br>ICPC Regionalist</sub>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://coderoj.com/c/ewu-intra-24/standings">
-      <span style="font-size:2em;">🏆</span><br/>
-      <sub>Intra-Uni<br/>Champion</sub>
-    </a>
-  </td>
-</tr>
-</table>
-
----
-
-### 🧑‍💻 Technologies I Explore
-
-<p align="left" style="display:flex;gap:10px;">
-  <!-- Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36" height="36"/></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/></a>
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/></a>
-  <!-- Backend & DB -->
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="36" height="36"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/></a>
-  <!-- Tools & Platform -->
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="36" height="36"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/></a>
-  <a href="https://www.latex-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="36" height="36"/></a>
-  <a href="https://kaggle.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="36" height="36"/></a>
-  <a href="https://colab.research.google.com/" target="_blank"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab" width="36" height="36"/></a>
-  <a href="https://cursor.so/" target="_blank"><img src="https://cursor.com/favicon.svg" alt="Cursor" width="36" height="36"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="36" height="36"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="36" height="36"/></a>
-  <!-- AI/ML Enthusiasm -->
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="36" height="36"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="36" height="36"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tafsiruzzaman&show_icons=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafsiruzzaman&layout=compact" height="150"/>
-</p>
+## 📫 Connect With Me
+- 📧 Email: **ihsafy2k21@gmail.com**
+- 💻 GitHub: https://github.com/ihsafy
 
 ---
 
 <p align="center">
-  <i>Eager to connect, collaborate, and grow in the world of technology!</i>
+  <i>“Every day is an opportunity to learn something new and grow.”</i>
 </p>
