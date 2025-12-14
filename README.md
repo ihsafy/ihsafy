@@ -1,83 +1,115 @@
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#58a6ff;">IH Safy</span>
+  👋 Hi, I'm <span style="color:#58a6ff;">IH Safy</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=CSE+Student+at+East+West+University;Aspiring+AI+%26+ML+Developer;Computer+Vision+%7C+Image+Processing;Always+Learning+New+Technologies" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=CSE+Student+%40+East+West+University;Aspiring+AI+%26+ML+Engineer;Computer+Vision+%7C+Image+Processing;LLM+%7C+Image+Detection+%26+Classification"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihsafy&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ihsafy&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **CSE student** at **East West University**, Dhaka, Bangladesh  
-- 🌱 Learning **Advanced Algorithms, Data Structures, ML & AI**
-- 🔭 Interested in **Machine Learning, Image Processing & Computer Vision**
-- 🧠 Experienced in **Image Detection & Classification**
-- ⚡ Fun fact: I enjoy **ocean views 🌊** and **archery 🏹**
-
----
-
-## 🛠️ Skills & Technologies
-
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/Server--Side_PHP-777BB4?style=plastic&logo=php&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-
-### 🤖 Machine Learning & AI
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=plastic)
-![Image Processing](https://img.shields.io/badge/Image_Processing-6A5ACD?style=plastic&logo=opencv)
-![Image Detection](https://img.shields.io/badge/Image_Detection-0A9396?style=plastic)
-![Image Classification](https://img.shields.io/badge/Image_Classification-005F73?style=plastic)
-![LLM](https://img.shields.io/badge/LLM_Applications-9B2226?style=plastic&logo=openai)
-
-### 🧰 Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-34A853?style=plastic&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=plastic&logo=google)
-![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=plastic)
-
----
-
-## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight" height="170"/>
+🎓 CSE Student at <b>East West University</b> <br/>
+🌱 Learning <b>Advanced Algorithms, ML & AI</b> <br/>
+🧠 Strong in <b>Image Detection & Classification</b> <br/>
+🖼️ Focused on <b>Computer Vision & Image Processing</b> <br/>
+⚡ Loves ocean views 🌊 and archery 🏹
+</p>
+
+---
+
+## 🛠️ Tech Stack (BIG ICONS)
+
+### 👨‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,php&theme=dark&perline=4" height="80"/>
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php&theme=dark&perline=3" height="80"/>
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="80"/>
+</p>
+
+### 🤖 Machine Learning & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch&theme=dark&perline=4" height="80"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=tokyo-night" />
+  <img src="https://img.shields.io/badge/Image_Detection-Deep_Learning-ff6f61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Image_Classification-Computer_Vision-6a11cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-AI_Applications-0a9396?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧰 AI & Productivity Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" height="80"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-00a67e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-Google_AI-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Perplexity-AI_Search-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=react-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🎯 Goals
-- ✅ Contribute to **Open Source**
-- 🧠 Build **AI & ML projects**
-- 🖼️ Specialize in **Computer Vision**
-- 🌐 Become a **Full-Stack + ML Engineer**
+<p align="center">
+🚀 Build AI & ML Projects <br/>
+🖼️ Specialize in Computer Vision <br/>
+🌐 Become a Full-Stack + ML Engineer <br/>
+🤝 Contribute to Open Source
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **ihsafy2k21@gmail.com**
-- 💻 GitHub: https://github.com/ihsafy
-
----
+<p align="center">
+  📧 <b>ihsafy2k21@gmail.com</b> <br/>
+  💻 <a href="https://github.com/ihsafy">github.com/ihsafy</a>
+</p>
 
 <p align="center">
-  <i>“Every day is an opportunity to learn something new and grow.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <i>“Every day is an opportunity to learn, build, and grow.”</i>
 </p>
