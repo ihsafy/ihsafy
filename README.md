@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack (BIG ICONS)
+## 🛠️ Tech Stack (🎓🧰⚡)
 
 ### 👨‍💻 Languages
 <p align="center">
