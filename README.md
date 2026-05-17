@@ -190,23 +190,29 @@ Current Goal:
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6"/>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ihsafy&theme=tokyonight&hide_border=true"
+  />
+</p>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ihsafy&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true"
+  />
+</p>
 
 # 🏆 Achievements & Vision
 
