@@ -241,19 +241,25 @@ Current Mission:
 
 ---
 
+
+
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/ihsafy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+</a>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsafy&theme=tokyonight&hide_border=true&background=0D1117"/>
+<a href="https://git.io/streak-stats">
+  <img height="180em" src="https://streak-stats.demolab.com?user=ihsafy&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/ihsafy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+</a>
 
 </div>
-
----
 
 # 🌐 CONNECT WITH ME
 
