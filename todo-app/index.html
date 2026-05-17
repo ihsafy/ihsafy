@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta Tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Task Master - A modern to-do list application with local storage functionality">
+    <meta name="keywords" content="todo, task manager, productivity, app">
+    <meta name="author" content="IH Safy">
+    <meta name="theme-color" content="#00F7FF">
+
+    <!-- Title -->
+    <title>Task Master | Modern To-Do List App</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <!-- HEADER                                                     -->
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <header>
+        <h1>📋 Task Master</h1>
+        <p>Your Smart To-Do List Companion</p>
+    </header>
+
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <!-- MAIN CONTAINER                                             -->
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <div class="container">
+
+        <!-- INPUT SECTION -->
+        <div class="input-section">
+            <div class="input-wrapper">
+                <input 
+                    type="text" 
+                    id="taskInput" 
+                    placeholder="Add a new task... (Press Enter or click Add)"
+                    maxlength="200"
+                    aria-label="Task input field"
+                >
+                <select id="prioritySelect" aria-label="Task priority selector">
+                    <option value="low">🟢 Low</option>
+                    <option value="medium" selected>🟡 Medium</option>
+                    <option value="high">🔴 High</option>
+                </select>
+            </div>
+            <button id="addBtn" class="btn btn-primary" aria-label="Add task">Add Task</button>
+        </div>
+
+        <!-- STATISTICS DASHBOARD -->
+        <div class="stats-container">
+            <div class="stat-card">
+                <div class="stat-label">📊 Total Tasks</div>
+                <div class="stat-value" id="totalTasks">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">✅ Completed</div>
+                <div class="stat-value" id="completedTasks">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">⏳ Pending</div>
+                <div class="stat-value" id="pendingTasks">0</div>
+            </div>
+        </div>
+
+        <!-- FILTER SECTION -->
+        <div class="filter-section">
+            <span class="filter-label">Filter Tasks:</span>
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all" aria-label="Show all tasks">
+                    All
+                    <span class="filter-count" id="count-all">0</span>
+                </button>
+                <button class="filter-btn" data-filter="active" aria-label="Show active tasks">
+                    Active
+                    <span class="filter-count" id="count-active">0</span>
+                </button>
+                <button class="filter-btn" data-filter="completed" aria-label="Show completed tasks">
+                    Completed
+                    <span class="filter-count" id="count-completed">0</span>
+                </button>
+                <button class="filter-btn" data-filter="high" aria-label="Show high priority tasks">
+                    High Priority
+                    <span class="filter-count" id="count-high">0</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- TASKS SECTION -->
+        <div class="tasks-section">
+            <p id="tasksSubtitle">Loading tasks...</p>
+            <ul class="tasks-list" id="tasksList" role="list" aria-label="Task list">
+                <!-- Tasks will be rendered here -->
+            </ul>
+        </div>
+
+        <!-- ACTION BUTTONS -->
+        <div class="action-section">
+            <button id="clearCompletedBtn" class="btn btn-success" aria-label="Clear all completed tasks">
+                Clear Completed
+            </button>
+            <button id="clearAllBtn" class="btn btn-danger" aria-label="Clear all tasks">
+                Clear All Tasks
+            </button>
+        </div>
+
+    </div>
+
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <!-- FOOTER                                                     -->
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <footer>
+        <p>
+            Built with ❤️ by 
+            <a href="https://github.com/ihsafy" target="_blank" rel="noopener noreferrer">IH Safy</a>
+            | 
+            <a href="https://github.com/ihsafy/todo-app" target="_blank" rel="noopener noreferrer">View Source</a>
+            | 
+            © 2026 Task Master
+        </p>
+    </footer>
+
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <!-- NOTIFICATION CONTAINER                                     -->
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <div id="notificationContainer" role="region" aria-live="polite" aria-label="Notifications"></div>
+
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <!-- SCRIPTS                                                    -->
+    <!-- ─────────────────────────────────────────────────────────── -->
+    <script src="app.js" defer></script>
+</body>
+</html>
