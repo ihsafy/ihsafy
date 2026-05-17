@@ -247,17 +247,34 @@ Current Mission:
 
 <div align="center">
 
-<a href="https://github.com/ihsafy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-</a>
+<table>
+<tr>
+<td align="center">
 
-<a href="https://git.io/streak-stats">
-  <img height="180em" src="https://streak-stats.demolab.com?user=ihsafy&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-</a>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" 
+height="180"
+/>
 
-<a href="https://github.com/ihsafy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-</a>
+</td>
+
+<td align="center">
+
+<img 
+src="https://github-readme-streak-stats-eight.vercel.app/?user=ihsafy&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=7DD3FC" 
+height="180"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF" 
+height="180"
+/>
 
 </div>
 
