@@ -1,524 +1,427 @@
-# 👋 Welcome! I'm IH Safy
-
-**AI Engineer | Machine Learning Specialist | Computer Vision Developer**
-
-Building intelligent systems that solve meaningful real-world problems through AI, deep learning, and computer vision.
-
----
-
-## 🎯 About Me
-
-```
-Location: Dhaka, Bangladesh 🇧🇩
-Education: B.Sc. Computer Science & Engineering
-           East West University
-
-Role: AI & Machine Learning Engineer
-
-Mission: Designing AI systems that amplify human potential
-         and solve meaningful real-world problems
-```
-
-### Core Focus Areas
-- 🧠 Artificial Intelligence & Machine Learning
-- 🔍 Computer Vision & Image Processing
-- 🤖 Deep Learning & Neural Networks
-- 📚 Large Language Models & LLM Applications
-- 🌐 Backend Systems & Web Technologies
-- 🔧 AI Automation & Intelligent Systems
-
----
-
-## 💻 Tech Stack & Proficiency
-
-### Programming Languages
-```
-┌─ Python          ████████████████████░ 95%
-├─ Java            ██████████░░░░░░░░░░ 50%
-├─ C               ██████████░░░░░░░░░░ 50%
-├─ PHP             ████████░░░░░░░░░░░░ 40%
-└─ JavaScript      ███████░░░░░░░░░░░░░ 35%
-```
-
-### AI & Machine Learning
-```
-┌─ TensorFlow      ████████████████░░░░ 80%
-├─ PyTorch         ████████████░░░░░░░░ 75%
-├─ Scikit-Learn    ███████████████░░░░░ 85%
-├─ OpenCV          ███████████░░░░░░░░░ 70%
-├─ Pandas          ████████████████░░░░ 85%
-└─ NumPy           ████████████████░░░░ 85%
-```
-
-### Web & Database
-```
-┌─ HTML/CSS        ███████████░░░░░░░░░ 70%
-├─ Bootstrap       ██████████░░░░░░░░░░ 65%
-├─ MySQL           ██████████░░░░░░░░░░ 65%
-└─ JavaScript      ███████░░░░░░░░░░░░░ 35%
-```
-
-### Development Tools
-```
-┌─ Git & GitHub    ████████████████░░░░ 85%
-├─ VS Code         ████████████████░░░░ 80%
-├─ Jupyter         ███████████░░░░░░░░░ 75%
-└─ Linux           ███████████░░░░░░░░░ 70%
-```
-
----
-
-## 🚀 Expertise & Specializations
-
-| Domain | Technologies | Level |
-|--------|--------------|-------|
-| **Machine Learning** | Scikit-Learn, Pandas, NumPy | ⭐⭐⭐⭐⭐ Expert |
-| **Computer Vision** | OpenCV, CNN, YOLO, Image Processing | ⭐⭐⭐⭐☆ Advanced |
-| **Deep Learning** | TensorFlow, PyTorch, Neural Networks | ⭐⭐⭐⭐☆ Advanced |
-| **LLM Applications** | Prompt Engineering, RAG, AI Automation | ⭐⭐⭐☆☆ Intermediate |
-| **Backend Development** | PHP, MySQL, Database Design | ⭐⭐⭐☆☆ Intermediate |
-| **Web Development** | HTML, CSS, Bootstrap, Responsive Design | ⭐⭐⭐☆☆ Intermediate |
-
----
-
-## 📊 Learning Progress Tracker
-
-### Current Skill Development
-```
-Machine Learning        ████████████████████░░ 85%
-Computer Vision         ██████████████████░░░░ 78%
-Deep Learning          ████████████████░░░░░░ 70%
-LLM Engineering        ██████████████░░░░░░░░ 62%
-Backend Development    ████████████░░░░░░░░░░ 55%
-Research Capabilities  ██████████░░░░░░░░░░░░ 50%
-```
-
-### Knowledge Distribution
-```
-AI/ML Fundamentals          ███████████████░░░░ 75%
-Advanced Techniques         ██████████░░░░░░░░░ 60%
-Production Systems          ████████░░░░░░░░░░░ 40%
-Research & Innovation       ██████░░░░░░░░░░░░░ 30%
-Industry Best Practices     █████░░░░░░░░░░░░░░ 25%
-```
-
----
-
-## 🌟 Featured Projects
-
-### 1️⃣ Alzheimer's MRI Classification
-**Deep Learning Medical Imaging Research**
-
-Type: Medical AI Research Project
-Status: Completed
-
-Features:
-  • Multi-class classification of MRI scans
-  • CNN-based neural network architecture
-  • Advanced medical image analysis
-  • Healthcare application of deep learning
-  • High accuracy disease detection system
-
-Technologies Used:
-  → TensorFlow | PyTorch | OpenCV
-  → Python | Jupyter | NumPy
-  → Scikit-Learn | Image Processing
-
-Impact: Healthcare automation, early disease detection
-
----
-
-### 2️⃣ RORA Luxe Marketplace
-**Full-Stack E-Commerce Platform**
-
-Type: Complete E-Commerce Solution
-Status: Production Ready
-
-Features:
-  • Responsive and intuitive user interface
-  • Secure backend authentication system
-  • Complete product management system
-  • Shopping cart and payment integration
-  • User account management
-  • Admin dashboard for analytics
-
-Technologies Used:
-  → PHP | MySQL | JavaScript
-  → HTML5 | CSS3 | Bootstrap
-  → RESTful API Design
-
-Impact: Real-world commerce solution, user-focused design
-
----
-
-### 3️⃣ Book Seekers
-**Smart Digital Library Platform**
-
-Type: Web Application
-Status: Production Ready
-
-Features:
-  • Comprehensive book management system
-  • Intelligent search and filtering
-  • Personalized recommendation engine
-  • Seamless database integration
-  • User review and rating system
-  • Advanced categorization
-
-Technologies Used:
-  → PHP | MySQL | JavaScript
-  → Bootstrap | HTML5 | CSS3
-  → Database Design Patterns
-
-Impact: Digital library automation, smart recommendations
-
----
-
-### 4️⃣ EWU Food Hub
-**Campus Food Platform**
-
-Type: Community Web Application
-Status: Production Ready
-
-Features:
-  • Real-time food listings and availability
-  • Student-focused interface design
-  • Easy ordering and delivery system
-  • Campus community integration
-  • Rating and review system
-  • Vendor management portal
-
-Technologies Used:
-  → PHP | MySQL | Bootstrap
-  → JavaScript | HTML5 | CSS3
-  → Database Management
-
-Impact: Campus community solution, food logistics optimization
-
----
-
-## 🎯 Development Roadmap
-
-### ✅ Completed Milestones
-```
-[✓] Build AI & ML Foundations
-    └─ Completed core ML concepts and algorithms
-    
-[✓] Develop Real-World Projects
-    └─ 4+ production projects deployed
-    
-[✓] Explore AI Automation
-    └─ Implemented automation solutions
-```
-
-### ⏳ Current Work (In Progress)
-```
-[→] Master Computer Vision
-    ├─ Advanced object detection
-    ├─ Image segmentation techniques
-    └─ Real-time processing systems
-    
-[→] Advance Deep Learning
-    ├─ Transformer architectures
-    ├─ Advanced CNN designs
-    └─ Multi-modal learning
-    
-[→] Build Production AI Systems
-    ├─ Scalable ML pipelines
-    ├─ Model deployment strategies
-    └─ System optimization
-```
-
-### ⬜ Future Goals (Planned)
-```
-[ ] Publish Research Papers
-    ├─ Novel AI applications
-    ├─ Computer vision breakthroughs
-    └─ Industry insights
-    
-[ ] Contribute to Open Source
-    ├─ AI/ML community projects
-    ├─ Framework improvements
-    └─ Tool development
-    
-[ ] Become Industry-Leading AI Engineer
-    ├─ Advanced research
-    ├─ Industry recognition
-    └─ Thought leadership
-```
-
----
-
-## 💡 Key Strengths
-
-### Technical Expertise
-→ Full-stack development with AI specialization
-→ Clean, efficient, and maintainable code
-→ Best practices in software architecture
-→ Production-ready system design
-
-### Problem Solving
-→ Analytical approach to complex challenges
-→ Breaking down problems into components
-→ Data-driven decision making
-→ Innovative solution design
-
-### Research & Development
-→ Staying current with AI/ML advancements
-→ Implementing cutting-edge techniques
-→ Continuous experimentation
-→ Innovation-focused mindset
-
-### Collaboration & Communication
-→ Clear technical documentation
-→ Effective team communication
-→ Knowledge sharing and mentoring
-→ Community engagement
-
----
-
-## 🔬 Areas of Expertise
-
-### Machine Learning
-• Supervised Learning (Regression, Classification)
-• Unsupervised Learning (Clustering, Dimensionality Reduction)
-• Ensemble Methods and Advanced Algorithms
-• Feature Engineering and Selection
-• Model Evaluation and Validation
-• Hyperparameter Optimization
-
-### Deep Learning
-• Convolutional Neural Networks (CNN)
-• Recurrent Neural Networks (RNN)
-• Transformer Architectures
-• Transfer Learning and Fine-tuning
-• Autoencoders and Generative Models
-• Multi-task Learning
-
-### Computer Vision
-• Image Classification and Recognition
-• Object Detection and Localization
-• Semantic and Instance Segmentation
-• Face Recognition and Detection
-• Image Enhancement and Processing
-• Real-time Video Analysis
-
-### NLP & LLMs
-• Text Preprocessing and Tokenization
-• Word Embeddings and Representations
-• Transformer-based Models
-• Fine-tuning Language Models
-• Prompt Engineering
-• Retrieval-Augmented Generation (RAG)
-
-### Full-Stack Development
-• Backend Architecture Design
-• Database Design and Optimization
-• API Development and Integration
-• Frontend User Experience
-• Security and Authentication
-• Deployment and DevOps
-
----
-
-## 📚 What I'm Currently Learning
-
-### 🔄 Active Learning Areas
-→ Advanced Computer Vision Techniques
-  • State-of-the-art object detection models
-  • Advanced segmentation algorithms
-  • 3D vision and point cloud processing
-  
-→ Production ML Systems
-  • Scalable machine learning pipelines
-  • Model serving and inference optimization
-  • Monitoring and maintaining ML systems
-  
-→ LLM Fine-tuning & Optimization
-  • Domain-specific language models
-  • Efficient fine-tuning techniques
-  • RAG system implementation
-  
-→ Research & Innovation
-  • Novel deep learning architectures
-  • Applications in healthcare AI
-  • Edge computing for AI systems
-  
-→ Open Source Contributions
-  • AI/ML framework development
-  • Contributing to major projects
-  • Community engagement
-
----
-
-## 🌍 My Philosophy
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                      GUIDING PRINCIPLES                        ║
-╚════════════════════════════════════════════════════════════════╝
-
-"Artificial Intelligence is more than technology.
-
-It is the ability to create systems that amplify human potential,
-solve meaningful problems, and shape the future."
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 I Believe In:
-
-  • Building AI systems with real-world impact
-  • Empowering teams through knowledge sharing
-  • Continuous learning and innovation
-  • Using technology responsibly for good
-  • Creating accessible and inclusive solutions
-  • Ethical AI development practices
-  • Community contribution and collaboration
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-### I'm Interested In:
-→ Collaborating on innovative AI/ML projects
-→ Discussing cutting-edge AI technologies
-→ Contributing to meaningful open-source projects
-→ Sharing knowledge and experiences
-→ Building intelligent solutions for real problems
-→ Research and academic collaborations
-
-### Contact Information
-
-📧 **Email:** ihsafy2k21@gmail.com
-
-🐙 **GitHub:** github.com/ihsafy
-
-💼 **Open To:** 
-   • Collaborations on AI/ML projects
-   • Freelance opportunities
-   • Full-time positions
-   • Research partnerships
-   • Consulting projects
-
----
-
-## 📈 Quick Facts & Stats
-
-```
-Total Projects Created:        4+ Production Projects
-Focus Areas:                   AI/ML, Computer Vision
-Development Style:             Quality-focused, Iterative
-Learning Approach:             Project-based, Hands-on
-Code Philosophy:               Clean, Maintainable, Scalable
-Community Engagement:          Active & Growing
-```
-
-### Projects Breakdown
-→ Deep Learning/Medical AI:     1 Project
-→ E-Commerce Solutions:         1 Project
-→ Platform Applications:        2 Projects
-→ Total Users Impacted:         100+ Users
-→ Repositories:                 Multiple Public Repos
-
----
-
-## 🎓 Achievements & Milestones
-
-### Education & Certifications
-→ B.Sc. Computer Science & Engineering (East West University)
-→ AI & Machine Learning Specialization (Self-Study)
-→ Deep Learning Practitioner
-→ Computer Vision Specialist
-
-### Technical Achievements
-→ Built and deployed 4+ production projects
-→ Implemented advanced deep learning systems
-→ Created scalable backend solutions
-→ Developed computer vision applications
-→ Full-stack AI/ML system architect
-
-### Learning Achievements
-→ 85% proficiency in Machine Learning
-→ 78% proficiency in Computer Vision
-→ 70% proficiency in Deep Learning
-→ Active continuous learner in emerging AI tech
-
----
-
-## ⭐ If You Find My Work Interesting
-
-Please consider:
-→ Starring my repositories ⭐
-→ Following for updates on new projects
-→ Engaging with my latest AI/ML work
-→ Sharing feedback and suggestions
-→ Collaborating on exciting projects
-
----
-
-## 🚀 Recent Focus Areas
-
-### Q2 2026 Priorities
-1. **Advanced Computer Vision**
-   - Implementing state-of-the-art detection models
-   - Exploring 3D vision techniques
-   
-2. **Production ML Systems**
-   - Building scalable ML pipelines
-   - Optimizing model inference
-   
-3. **Open Source Contributions**
-   - Contributing to AI frameworks
-   - Community engagement
-   
-4. **Research Exploration**
-   - Novel AI applications
-   - Healthcare AI innovations
-
----
-
-## 💬 Words of Wisdom
-
-> "The future belongs to those who can combine deep technical knowledge
-> with creative problem-solving. Every line of code is an opportunity
-> to build something smarter."
-
-> "In AI and Machine Learning, the journey of learning never stops.
-> What matters is the commitment to continuous improvement and
-> building systems that truly matter."
-
----
-
-## 📝 Latest Updates
-
-**Last Updated:** May 2026
-**Status:** 🟢 Active & Continuously Learning
-**Availability:** Open to collaborations and opportunities
-
----
-
-## 🙏 Thank You
-
-Thank you for visiting my GitHub profile! I'm excited about the intersection
-of AI, machine learning, and real-world problem-solving. Whether you're
-interested in collaboration, discussing AI/ML topics, or just saying hello,
-feel free to reach out.
-
-Let's build intelligent systems that make a difference! 🚀
-
----
-
-<div align="center">
-
-**Created with ❤️ by IH Safy**
-
-Building the future, one algorithm at a time.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-© 2026 • AI Engineer • Machine Learning Specialist • Computer Vision Developer
-
-</div>
+/* ═══════════════════════════════════════════════════════════════════════════ */
+/* TASK MASTER - TO-DO LIST APPLICATION                                        */
+/* JavaScript Application Logic                                                */
+/* ═══════════════════════════════════════════════════════════════════════════ */
+
+// ─────────────────────────────────────────────────────────────────────────────
+// TASK MANAGER CLASS
+// ─────────────────────────────────────────────────────────────────────────────
+
+class TaskManager {
+    constructor() {
+        // Configuration
+        this.storageKey = 'taskMasterData';
+        this.currentFilter = 'all';
+        this.tasks = [];
+
+        // DOM Elements
+        this.taskInput = document.getElementById('taskInput');
+        this.prioritySelect = document.getElementById('prioritySelect');
+        this.addBtn = document.getElementById('addBtn');
+        this.tasksList = document.getElementById('tasksList');
+        this.tasksSubtitle = document.getElementById('tasksSubtitle');
+        this.clearCompletedBtn = document.getElementById('clearCompletedBtn');
+        this.clearAllBtn = document.getElementById('clearAllBtn');
+        this.notificationContainer = document.getElementById('notificationContainer');
+
+        // Statistics Elements
+        this.totalTasksEl = document.getElementById('totalTasks');
+        this.completedTasksEl = document.getElementById('completedTasks');
+        this.pendingTasksEl = document.getElementById('pendingTasks');
+
+        // Initialize
+        this.init();
+    }
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // INITIALIZATION
+    // ─────────────────────────────────────────────────────────────────────────
+
+    init() {
+        // Load tasks from local storage
+        this.loadTasks();
+
+        // Setup event listeners
+        this.setupEventListeners();
+
+        // Initial render
+        this.render();
+
+        // Log startup
+        console.log('✓ Task Master initialized');
+    }
+
+    setupEventListeners() {
+        // Add task button
+        this.addBtn.addEventListener('click', () => this.addTask());
+
+        // Input field - Enter key
+        this.taskInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                this.addTask();
+            }
+        });
+
+        // Clear buttons
+        this.clearCompletedBtn.addEventListener('click', () => this.clearCompleted());
+        this.clearAllBtn.addEventListener('click', () => this.clearAll());
+
+        // Filter buttons
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const filter = e.currentTarget.dataset.filter;
+                this.setFilter(filter);
+            });
+        });
+    }
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // TASK OPERATIONS (CRUD)
+    // ─────────────────────────────────────────────────────────────────────────
+
+    addTask() {
+        const text = this.taskInput.value.trim();
+        const priority = this.prioritySelect.value;
+
+        // Validation
+        if (!text) {
+            this.showNotification('Please enter a task', 'error');
+            return;
+        }
+
+        if (text.length > 200) {
+            this.showNotification('Task is too long (max 200 characters)', 'error');
+            return;
+        }
+
+        // Create task object
+        const task = {
+            id: Date.now(),
+            text: this.escapeHTML(text),
+            completed: false,
+            priority: priority,
+            createdAt: new Date().toLocaleDateString('en-US', {
+                month: '2-digit',
+                day: '2-digit',
+                year: 'numeric'
+            }),
+            createdTime: new Date().toLocaleTimeString('en-US', {
+                hour: '2-digit',
+                minute: '2-digit',
+                hour12: true
+            })
+        };
+
+        // Add to tasks array
+        this.tasks.unshift(task);
+
+        // Clear input
+        this.taskInput.value = '';
+        this.prioritySelect.value = 'medium';
+
+        // Save and render
+        this.saveTasks();
+        this.render();
+
+        // Show notification
+        this.showNotification(`✓ Task added: "${text.substring(0, 30)}..."`, 'success');
+    }
+
+    deleteTask(id) {
+        const taskIndex = this.tasks.findIndex(t => t.id === id);
+        if (taskIndex === -1) return;
+
+        const taskText = this.tasks[taskIndex].text;
+        this.tasks.splice(taskIndex, 1);
+
+        this.saveTasks();
+        this.render();
+        this.showNotification(`✓ Task deleted`, 'info');
+    }
+
+    toggleTask(id) {
+        const task = this.tasks.find(t => t.id === id);
+        if (task) {
+            task.completed = !task.completed;
+            this.saveTasks();
+            this.render();
+        }
+    }
+
+    editTask(id) {
+        const task = this.tasks.find(t => t.id === id);
+        if (!task) return;
+
+        // Simple prompt for edit
+        const newText = prompt('Edit task:', this.unescapeHTML(task.text));
+
+        if (newText === null) return; // User cancelled
+        if (!newText.trim()) {
+            this.showNotification('Task cannot be empty', 'error');
+            return;
+        }
+        if (newText.length > 200) {
+            this.showNotification('Task is too long', 'error');
+            return;
+        }
+
+        task.text = this.escapeHTML(newText.trim());
+        this.saveTasks();
+        this.render();
+        this.showNotification('✓ Task updated', 'success');
+    }
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // FILTERING & SORTING
+    // ─────────────────────────────────────────────────────────────────────────
+
+    setFilter(filter) {
+        this.currentFilter = filter;
+
+        // Update filter button states
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.classList.remove('active');
+            if (btn.dataset.filter === filter) {
+                btn.classList.add('active');
+            }
+        });
+
+        this.render();
+    }
+
+    getFilteredTasks() {
+        switch (this.currentFilter) {
+            case 'active':
+                return this.tasks.filter(t => !t.completed);
+            case 'completed':
+                return this.tasks.filter(t => t.completed);
+            case 'high':
+                return this.tasks.filter(t => t.priority === 'high');
+            default:
+                return this.tasks;
+        }
+    }
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // RENDERING
+    // ─────────────────────────────────────────────────────────────────────────
+
+    render() {
+        this.renderTasks();
+        this.updateStats();
+        this.updateFilterCounts();
+    }
+
+    renderTasks() {
+        const filteredTasks = this.getFilteredTasks();
+        this.tasksList.innerHTML = '';
+
+        if (filteredTasks.length === 0) {
+            this.tasksSubtitle.textContent = this.getEmptyMessage();
+            return;
+        }
+
+        this.tasksSubtitle.textContent = `Showing ${filteredTasks.length} task${filteredTasks.length !== 1 ? 's' : ''}`;
+
+        filteredTasks.forEach(task => {
+            const taskElement = this.createTaskElement(task);
+            this.tasksList.appendChild(taskElement);
+        });
+    }
+
+    createTaskElement(task) {
+        const div = document.createElement('div');
+        div.className = `task-item ${task.priority}-priority`;
+        if (task.completed) div.classList.add('completed');
+
+        const priorityIcon = {
+            high: '🔴',
+            medium: '🟡',
+            low: '🟢'
+        }[task.priority];
+
+        const priorityLabel = {
+            high: 'High',
+            medium: 'Medium',
+            low: 'Low'
+        }[task.priority];
+
+        div.innerHTML = `
+            <input 
+                type="checkbox" 
+                class="task-checkbox" 
+                ${task.completed ? 'checked' : ''}
+                aria-label="Mark task as complete"
+            >
+            <div class="task-content">
+                <p class="task-text">${task.text}</p>
+                <div class="task-meta">
+                    <span class="task-priority ${task.priority}">
+                        ${priorityIcon} ${priorityLabel}
+                    </span>
+                    <span class="task-date">${task.createdAt}</span>
+                    <span class="task-time">${task.createdTime}</span>
+                </div>
+            </div>
+            <div class="task-actions">
+                <button class="task-btn edit-btn" title="Edit task" aria-label="Edit task">
+                    ✏️
+                </button>
+                <button class="task-btn delete-btn" title="Delete task" aria-label="Delete task">
+                    🗑️
+                </button>
+            </div>
+        `;
+
+        // Event listeners
+        const checkbox = div.querySelector('.task-checkbox');
+        const editBtn = div.querySelector('.edit-btn');
+        const deleteBtn = div.querySelector('.delete-btn');
+
+        checkbox.addEventListener('change', () => this.toggleTask(task.id));
+        editBtn.addEventListener('click', () => this.editTask(task.id));
+        deleteBtn.addEventListener('click', () => this.deleteTask(task.id));
+
+        return div;
+    }
+
+    updateStats() {
+        const completed = this.tasks.filter(t => t.completed).length;
+        const pending = this.tasks.length - completed;
+
+        this.totalTasksEl.textContent = this.tasks.length;
+        this.completedTasksEl.textContent = completed;
+        this.pendingTasksEl.textContent = pending;
+    }
+
+    updateFilterCounts() {
+        const allCount = this.tasks.length;
+        const activeCount = this.tasks.filter(t => !t.completed).length;
+        const completedCount = this.tasks.filter(t => t.completed).length;
+        const highCount = this.tasks.filter(t => t.priority === 'high').length;
+
+        document.getElementById('count-all').textContent = allCount;
+        document.getElementById('count-active').textContent = activeCount;
+        document.getElementById('count-completed').textContent = completedCount;
+        document.getElementById('count-high').textContent = highCount;
+    }
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // BULK OPERATIONS
+    // ─────────────────────────────────────────────────────────────────────────
+
+    clearCompleted() {
+        const completedCount = this.tasks.filter(t => t.completed).length;
+
+        if (completedCount === 0) {
+            this.showNotification('No completed tasks to clear', 'info');
+            return;
+        }
+
+        if (confirm(`Delete ${completedCount} completed task${completedCount !== 1 ? 's' : ''}?`)) {
+            this.tasks = this.tasks.filter(t => !t.completed);
+            this.saveTasks();
+            this.render();
+            this.showNotification(`✓ Cleared ${completedCount} task${completedCount !== 1 ? 's' : ''}`, 'success');
+        }
+    }
+
+    clearAll() {
+        if (this.tasks.length === 0) {
+            this.showNotification('No tasks to clear', 'info');
+            return;
+        }
+
+        if (confirm(`Delete all ${this.tasks.length} tasks? This cannot be undone!`)) {
+            this.tasks = [];
+            this.saveTasks();
+            this.render();
+            this.showNotification('✓ All tasks cleared', 'success');
+        }
+    }
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // LOCAL STORAGE
+    // ─────────────────────────────────────────────────────────────────────────
+
+    loadTasks() {
+        try {
+            const stored = localStorage.getItem(this.storageKey);
+            this.tasks = stored ? JSON.parse(stored) : [];
+            console.log(`✓ Loaded ${this.tasks.length} tasks from local storage`);
+        } catch (error) {
+            console.error('Error loading tasks:', error);
+            this.tasks = [];
+            this.showNotification('Error loading tasks from storage', 'error');
+        }
+    }
+
+    saveTasks() {
+        try {
+            localStorage.setItem(this.storageKey, JSON.stringify(this.tasks));
+        } catch (error) {
+            console.error('Error saving tasks:', error);
+            this.showNotification('Error saving tasks to storage', 'error');
+        }
+    }
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // NOTIFICATIONS
+    // ─────────────────────────────────────────────────────────────────────────
+
+    showNotification(message, type = 'info') {
+        const notification = document.createElement('div');
+        notification.className = `notification ${type}`;
+        notification.textContent = message;
+
+        this.notificationContainer.appendChild(notification);
+
+        // Auto remove after 3 seconds
+        setTimeout(() => {
+            notification.style.animation = 'fadeOut 0.3s ease-out';
+            setTimeout(() => notification.remove(), 300);
+        }, 3000);
+    }
+
+    // ─────────────────────────────────────────────────────────────────────────
+    // UTILITIES
+    // ─────────────────────────────────────────────────────────────────────────
+
+    escapeHTML(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    }
+
+    unescapeHTML(text) {
+        const div = document.createElement('div');
+        div.innerHTML = text;
+        return div.textContent || div.innerText || '';
+    }
+
+    getEmptyMessage() {
+        const messages = {
+            all: '📭 No tasks yet. Add one to get started!',
+            active: '🎉 All tasks completed! Great job!',
+            completed: '📝 No completed tasks yet.',
+            high: '🟢 No high priority tasks.'
+        };
+        return messages[this.currentFilter] || messages.all;
+    }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// APPLICATION INITIALIZATION
+// ─────────────────────────────────────────────────────────────────────────────
+
+// Initialize when DOM is ready
+document.addEventListener('DOMContentLoaded', () => {
+    const app = new TaskManager();
+    console.log('🚀 Task Master is ready!');
+});
+
+// Handle beforeunload
+window.addEventListener('beforeunload', () => {
+    console.log('💾 Saving tasks before leaving...');
+});
