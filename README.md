@@ -1,156 +1,134 @@
-<!-- ===================================================== -->
-<!--                ⚡ IH SAFY README ⚡                    -->
-<!-- ===================================================== -->
-
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#58a6ff;">IH SAFY</span>
-</h1>
-
-<h3 align="center">
-  AI & Machine Learning Engineer • Computer Vision Enthusiast • LLM Explorer
-</h3>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning;LLM+Engineering+%7C+AI+Automation;Building+Real+World+Intelligent+Systems;East+West+University+%7C+CSE+Undergraduate"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=ihsafy&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"
-    alt="profile views"
-  />
-  
-  <img 
-    src="https://img.shields.io/github/followers/ihsafy?style=for-the-badge&color=7c3aed"
-    alt="followers"
-  />
-  
-  <img 
-    src="https://img.shields.io/github/stars/ihsafy?style=for-the-badge&color=f59e0b"
-    alt="stars"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=180&section=header&text=IH%20SAFY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-    alt="header"
-  />
-</p>
-
----
-
-# 🚀 About Me
+<!-- ========================================================= -->
+<!--                  ⚡ IH SAFY — FUTURE AI ⚡                 -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-🎓 CSE Undergraduate at **East West University**  
-🤖 Passionate about **Artificial Intelligence & Machine Learning**  
-🧠 Focused on **Computer Vision, Deep Learning & LLM Systems**  
-⚡ Building intelligent systems for real-world problem solving  
-🌱 Currently learning **Advanced AI Architectures & RAG Pipelines**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:1e293b,50:2563eb,75:7c3aed,100:06b6d4&text=IH%20SAFY&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20ML%20Researcher%20•%20Future%20Builder&descAlignY=58"/>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+<div align="center">
+
+# ⚡ AI • MACHINE LEARNING • COMPUTER VISION • LLM ENGINEERING ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Researcher;Deep+Learning+Architect;LLM+%26+RAG+Systems+Developer;Cybersecurity+%26+Automation+Enthusiast;Building+Intelligent+Systems+For+The+Future"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ihsafy&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/ihsafy?style=for-the-badge&logo=github&color=7c3aed"/>
+
+<img src="https://img.shields.io/github/stars/ihsafy?style=for-the-badge&logo=github&color=f59e0b"/>
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20LLM-06b6d4?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk1MnlvYWFsZ2VobXJrN3VjN2d6N3N4bXJpZmV4aXZ1MWYzZmQzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+```yaml
+Name: IH SAFY
+Location: Dhaka, Bangladesh 🇧🇩
+Education: CSE Undergraduate @ East West University
+Focus: AI Engineering & Intelligent Systems
+
+Specialization:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - LLM Engineering
+  - RAG Pipelines
+  - AI Automation
+
+Current Goal:
+  Building impactful AI systems for real-world problems
+```
+
+<br>
+
+- ⚡ Passionate about building futuristic AI systems
+- 🧠 Exploring advanced Deep Learning architectures
+- 🤖 Developing intelligent LLM & RAG applications
+- 👁️ Working with Computer Vision & Neural Networks
+- 🚀 Learning scalable AI infrastructure & deployment
+- 🌌 Interested in Cybersecurity + AI integration
+
+---
+
+# 🧠 AI & Engineering Arsenal
 
 <div align="center">
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,php,javascript&theme=dark" height="70"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,php,javascript,typescript&theme=dark"/>
 
----
+<br><br>
 
-## 🤖 AI / Machine Learning
+## 🤖 AI / ML Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" height="70"/>
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-ff6b6b?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Computer_Vision-Image_Processing-3b82f6?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/LLM-RAG_Applications-8b5cf6?style=for-the-badge"/>
-</p>
+<br><br>
 
----
+## 🌐 Web & Backend
 
-## 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,mysql&theme=dark"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql&theme=dark" height="70"/>
-</p>
-
----
+<br><br>
 
 ## ⚙️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="70"/>
-</p>
-
----
-
-## 🧰 AI Productivity Tools
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Gemini-Google_AI-4285F4?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Perplexity-AI_Search-111111?style=for-the-badge"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase&theme=dark"/>
 
 </div>
 
 ---
 
-# 📌 Core Expertise
+# 🚀 Specializations
 
 <div align="center">
 
-| Domain | Technologies | Focus |
-|:---|:---|:---|
-| 🧠 Machine Learning | Scikit-Learn, Pandas | Prediction Systems |
-| 👁️ Computer Vision | OpenCV, CNN, YOLO | Detection & Recognition |
-| ⚡ Deep Learning | TensorFlow, PyTorch | Neural Architectures |
-| 🤖 LLM Engineering | Prompt Engineering, RAG | AI Automation |
-| 🌐 Backend Systems | PHP, MySQL | Web Infrastructure |
+| Domain | Expertise |
+|:---|:---|
+| 🧠 Machine Learning | Predictive Modeling • Data Analysis • AI Pipelines |
+| 👁️ Computer Vision | CNN • Object Detection • Image Processing |
+| ⚡ Deep Learning | Neural Networks • Transfer Learning • TensorFlow |
+| 🤖 LLM Engineering | Prompt Engineering • RAG • AI Agents |
+| 🌐 Full Stack Systems | Backend Logic • APIs • Database Systems |
+| 🔐 Cybersecurity | Smart Infrastructure & Secure Systems |
 
 </div>
 
 ---
 
-# 🚧 Featured Projects
+# ⚡ Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
+
 <td width="50%">
 
-## 🧠 MindScanner
+## 🧠 MindScanner AI
 
-### Alzheimer's MRI Classification
+### Alzheimer's MRI Classification System
 
-✔ Multi-class MRI classification using CNN  
-✔ Medical imaging analysis system  
-✔ Deep learning based prediction pipeline  
+✔ CNN-powered medical imaging analysis  
+✔ MRI multi-class classification  
+✔ AI-assisted disease prediction  
 
-**Tech Used**
-```txt
-Python • TensorFlow • OpenCV
-```
+### ⚙️ Stack
+`Python` `TensorFlow` `OpenCV`
 
 </td>
 
@@ -158,35 +136,33 @@ Python • TensorFlow • OpenCV
 
 ## 💎 Rora Luxe
 
-### Full Stack Luxury Marketplace
+### Luxury E-Commerce Platform
 
-✔ Responsive e-commerce platform  
-✔ Product management system  
-✔ Secure backend integration  
+✔ Full-stack marketplace system  
+✔ Responsive premium UI  
+✔ Secure backend architecture  
 
-**Tech Used**
-```txt
-PHP • MySQL • Bootstrap
-```
+### ⚙️ Stack
+`PHP` `MySQL` `Bootstrap`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ## 📚 Book Seekers
 
-### Smart Library Platform
+### Smart Digital Library
 
 ✔ Intelligent search system  
-✔ Smart database integration  
-✔ User-focused design  
+✔ Dynamic database management  
+✔ Optimized user experience  
 
-**Tech Used**
-```txt
-PHP • JavaScript • MySQL
-```
+### ⚙️ Stack
+`PHP` `JavaScript` `MySQL`
 
 </td>
 
@@ -194,18 +170,17 @@ PHP • JavaScript • MySQL
 
 ## 🍔 EWU Food Hub
 
-### Campus Food Platform
+### Smart Campus Food Platform
 
-✔ Student-focused food listing  
-✔ Real-time interface  
-✔ Modern responsive UI  
+✔ Student-focused food solution  
+✔ Real-time responsive UI  
+✔ Fast interactive experience  
 
-**Tech Used**
-```txt
-HTML • CSS • JavaScript
-```
+### ⚙️ Stack
+`HTML` `CSS` `JavaScript`
 
 </td>
+
 </tr>
 </table>
 
@@ -215,82 +190,104 @@ HTML • CSS • JavaScript
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ihsafy&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true"
-  />
-</p>
-
-# 🎯 Current Goals
-
 <div align="center">
 
-🚀 Build impactful AI & ML systems  
-🧠 Master Deep Learning Architectures  
-👁️ Advance Computer Vision expertise  
-🤖 Develop LLM & RAG applications  
-🌐 Become a Full Stack + AI Engineer  
-🤝 Contribute to Open Source Projects  
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6"/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ihsafy&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 🏆 Achievements & Vision
 
-<p align="center">
-  
+<div align="center">
+
+🏅 Building AI-powered intelligent systems  
+🚀 Exploring future-ready AI architectures  
+🧠 Researching Computer Vision applications  
+⚡ Creating automation with LLMs & RAG  
+🌍 Aiming to contribute to impactful open-source AI  
+🔮 Working toward becoming a world-class AI Engineer  
+
+</div>
+
+---
+
+# 🌌 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM_ENGINEERING-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG_PIPELINES-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/COMPUTER_VISION-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_AUTOMATION-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CYBER_SECURITY-0F172A?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="mailto:ihsafy2k21@gmail.com">
-  <img 
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ihsafy">
-  <img 
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-# ✨ Quote
-
-<div align="center">
-
-> *"Artificial Intelligence is not just about machines — it's about building systems that amplify human potential."*
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=140&section=footer"
-    alt="footer"
-  />
-</p>
+# 💭 Philosophy
 
-<h3 align="center">
-  ⚡ Thanks for visiting my profile ⚡
-</h3>
+<div align="center">
+
+> ### “Artificial Intelligence is not replacing human potential —  
+> ### it is amplifying what humanity can become.”
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:06b6d4,50:7c3aed,100:0f172a"/>
+
+# ⚡ THANKS FOR VISITING MY PROFILE ⚡
+
+### 🚀 Building The Future With AI 🚀
+
+</div>
