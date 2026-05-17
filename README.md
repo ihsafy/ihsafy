@@ -1,302 +1,524 @@
-<div align="center">
+# 👋 Welcome! I'm IH Safy
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:111827,70:00F7FF,100:38BDF8&text=IH%20SAFY&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=58&descSize=18"/>
+**AI Engineer | Machine Learning Specialist | Computer Vision Developer**
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;AI+%7C+Deep+Learning+%7C+LLMs;Computer+Vision+Engineer;Future+Focused+Developer+%F0%9F%9A%80"/>
-
-<br><br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI_ENGINEER-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/COMPUTER_VISION-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/DEEP_LEARNING-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/LLM_APPLICATIONS-111827?style=for-the-badge&logo=googlebard&logoColor=00F7FF"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ihsafy&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ihsafy?style=for-the-badge&color=111827"/>
-<img src="https://img.shields.io/github/stars/ihsafy?style=for-the-badge&color=00F7FF"/>
-</p>
-
-</div>
+Building intelligent systems that solve meaningful real-world problems through AI, deep learning, and computer vision.
 
 ---
 
-# ⚡ NEURAL SYSTEM INITIALIZATION
+## 🎯 About Me
 
-<div align="center">
-
-```bash
-> Booting AI Core...
-██████████████████████████████ 100%
-
-> Loading Neural Networks...
-██████████████████████████████ 100%
-
-> Initializing Computer Vision Engine...
-██████████████████████████████ 100%
-
-> Establishing Intelligence Pipeline...
-██████████████████████████████ 100%
-
-> STATUS : ONLINE 🚀
 ```
-
-</div>
-
----
-
-# 👨‍💻 ABOUT ME
-
-```yaml
-Name: IH Safy
-Role: AI & Machine Learning Engineer
 Location: Dhaka, Bangladesh 🇧🇩
+Education: B.Sc. Computer Science & Engineering
+           East West University
 
-Education:
-  University: East West University
-  Degree: B.Sc. in Computer Science & Engineering
+Role: AI & Machine Learning Engineer
 
-Focus:
-  - Artificial Intelligence
-  - Deep Learning
-  - Computer Vision
-  - LLM Applications
-  - AI Automation
-  - Intelligent Systems
+Mission: Designing AI systems that amplify human potential
+         and solve meaningful real-world problems
+```
 
-Mission:
-  Designing AI systems that solve
-  meaningful real-world problems.
+### Core Focus Areas
+- 🧠 Artificial Intelligence & Machine Learning
+- 🔍 Computer Vision & Image Processing
+- 🤖 Deep Learning & Neural Networks
+- 📚 Large Language Models & LLM Applications
+- 🌐 Backend Systems & Web Technologies
+- 🔧 AI Automation & Intelligent Systems
+
+---
+
+## 💻 Tech Stack & Proficiency
+
+### Programming Languages
+```
+┌─ Python          ████████████████████░ 95%
+├─ Java            ██████████░░░░░░░░░░ 50%
+├─ C               ██████████░░░░░░░░░░ 50%
+├─ PHP             ████████░░░░░░░░░░░░ 40%
+└─ JavaScript      ███████░░░░░░░░░░░░░ 35%
+```
+
+### AI & Machine Learning
+```
+┌─ TensorFlow      ████████████████░░░░ 80%
+├─ PyTorch         ████████████░░░░░░░░ 75%
+├─ Scikit-Learn    ███████████████░░░░░ 85%
+├─ OpenCV          ███████████░░░░░░░░░ 70%
+├─ Pandas          ████████████████░░░░ 85%
+└─ NumPy           ████████████████░░░░ 85%
+```
+
+### Web & Database
+```
+┌─ HTML/CSS        ███████████░░░░░░░░░ 70%
+├─ Bootstrap       ██████████░░░░░░░░░░ 65%
+├─ MySQL           ██████████░░░░░░░░░░ 65%
+└─ JavaScript      ███████░░░░░░░░░░░░░ 35%
+```
+
+### Development Tools
+```
+┌─ Git & GitHub    ████████████████░░░░ 85%
+├─ VS Code         ████████████████░░░░ 80%
+├─ Jupyter         ███████████░░░░░░░░░ 75%
+└─ Linux           ███████████░░░░░░░░░ 70%
 ```
 
 ---
 
-# 🧠 TECH STACK
+## 🚀 Expertise & Specializations
 
-<div align="center">
-
-## 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,php,javascript&theme=dark"/>
-
----
-
-## 🌐 Web Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql&theme=dark"/>
+| Domain | Technologies | Level |
+|--------|--------------|-------|
+| **Machine Learning** | Scikit-Learn, Pandas, NumPy | ⭐⭐⭐⭐⭐ Expert |
+| **Computer Vision** | OpenCV, CNN, YOLO, Image Processing | ⭐⭐⭐⭐☆ Advanced |
+| **Deep Learning** | TensorFlow, PyTorch, Neural Networks | ⭐⭐⭐⭐☆ Advanced |
+| **LLM Applications** | Prompt Engineering, RAG, AI Automation | ⭐⭐⭐☆☆ Intermediate |
+| **Backend Development** | PHP, MySQL, Database Design | ⭐⭐⭐☆☆ Intermediate |
+| **Web Development** | HTML, CSS, Bootstrap, Responsive Design | ⭐⭐⭐☆☆ Intermediate |
 
 ---
 
-## 🤖 AI / ML
+## 📊 Learning Progress Tracker
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+### Current Skill Development
+```
+Machine Learning        ████████████████████░░ 85%
+Computer Vision         ██████████████████░░░░ 78%
+Deep Learning          ████████████████░░░░░░ 70%
+LLM Engineering        ██████████████░░░░░░░░ 62%
+Backend Development    ████████████░░░░░░░░░░ 55%
+Research Capabilities  ██████████░░░░░░░░░░░░ 50%
+```
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Scikit_Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-
----
-
-## ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
-
-</div>
-
----
-
-# 🚀 SPECIALIZATION
-
-<div align="center">
-
-| Domain | Stack | Expertise |
-|:--|:--|:--|
-| 🧠 Machine Learning | Scikit-Learn • Pandas | Predictive Intelligence |
-| 🔍 Computer Vision | OpenCV • CNN • YOLO | Detection & Recognition |
-| 🤖 Deep Learning | TensorFlow • PyTorch | Neural Network Systems |
-| 🧩 LLM Applications | Prompt Engineering • RAG | AI Automation |
-| 🌐 Backend Systems | PHP • MySQL | Web Platforms |
-
-</div>
+### Knowledge Distribution
+```
+AI/ML Fundamentals          ███████████████░░░░ 75%
+Advanced Techniques         ██████████░░░░░░░░░ 60%
+Production Systems          ████████░░░░░░░░░░░ 40%
+Research & Innovation       ██████░░░░░░░░░░░░░ 30%
+Industry Best Practices     █████░░░░░░░░░░░░░░ 25%
+```
 
 ---
 
-# 📈 CURRENT LEARNING STATUS
+## 🌟 Featured Projects
 
-<div align="center">
+### 1️⃣ Alzheimer's MRI Classification
+**Deep Learning Medical Imaging Research**
 
-| Technology | Progress |
-|:--|:--|
-| Machine Learning | ████████████████████░░ 85% |
-| Computer Vision | ██████████████████░░░ 78% |
-| Deep Learning | ████████████████░░░░░ 70% |
-| LLM Engineering | ██████████████░░░░░░░ 62% |
-| Backend Development | ████████████░░░░░░░░░ 55% |
-
-</div>
-
----
-
-# 🌟 FEATURED PROJECTS
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🧠 Alzheimer's MRI Classification
-
-```yaml
-Type: Deep Learning Research
+Type: Medical AI Research Project
+Status: Completed
 
 Features:
-  - MRI Multi-Class Classification
-  - CNN Architecture
-  - Medical Imaging Analysis
-  - Intelligent Detection System
-```
+  • Multi-class classification of MRI scans
+  • CNN-based neural network architecture
+  • Advanced medical image analysis
+  • Healthcare application of deep learning
+  • High accuracy disease detection system
 
-</td>
+Technologies Used:
+  → TensorFlow | PyTorch | OpenCV
+  → Python | Jupyter | NumPy
+  → Scikit-Learn | Image Processing
 
-<td width="50%">
-
-## 🛒 RORA Luxe Marketplace
-
-```yaml
-Type: Full Stack E-Commerce
-
-Features:
-  - Responsive UI/UX
-  - Secure Backend System
-  - Product Management
-  - PHP + MySQL
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📚 Book Seekers
-
-```yaml
-Type: Smart Library Platform
-
-Features:
-  - Book Management
-  - Smart Search
-  - Recommendation Features
-  - Database Integration
-```
-
-</td>
-
-<td width="50%">
-
-## 🍔 EWU Food Hub
-
-```yaml
-Type: Campus Food Platform
-
-Features:
-  - Food Listings
-  - Student Focused System
-  - User Friendly Interface
-  - Real-time Experience
-```
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+Impact: Healthcare automation, early disease detection
 
 ---
 
-# 🎯 ROADMAP
+### 2️⃣ RORA Luxe Marketplace
+**Full-Stack E-Commerce Platform**
 
-```txt
+Type: Complete E-Commerce Solution
+Status: Production Ready
+
+Features:
+  • Responsive and intuitive user interface
+  • Secure backend authentication system
+  • Complete product management system
+  • Shopping cart and payment integration
+  • User account management
+  • Admin dashboard for analytics
+
+Technologies Used:
+  → PHP | MySQL | JavaScript
+  → HTML5 | CSS3 | Bootstrap
+  → RESTful API Design
+
+Impact: Real-world commerce solution, user-focused design
+
+---
+
+### 3️⃣ Book Seekers
+**Smart Digital Library Platform**
+
+Type: Web Application
+Status: Production Ready
+
+Features:
+  • Comprehensive book management system
+  • Intelligent search and filtering
+  • Personalized recommendation engine
+  • Seamless database integration
+  • User review and rating system
+  • Advanced categorization
+
+Technologies Used:
+  → PHP | MySQL | JavaScript
+  → Bootstrap | HTML5 | CSS3
+  → Database Design Patterns
+
+Impact: Digital library automation, smart recommendations
+
+---
+
+### 4️⃣ EWU Food Hub
+**Campus Food Platform**
+
+Type: Community Web Application
+Status: Production Ready
+
+Features:
+  • Real-time food listings and availability
+  • Student-focused interface design
+  • Easy ordering and delivery system
+  • Campus community integration
+  • Rating and review system
+  • Vendor management portal
+
+Technologies Used:
+  → PHP | MySQL | Bootstrap
+  → JavaScript | HTML5 | CSS3
+  → Database Management
+
+Impact: Campus community solution, food logistics optimization
+
+---
+
+## 🎯 Development Roadmap
+
+### ✅ Completed Milestones
+```
 [✓] Build AI & ML Foundations
+    └─ Completed core ML concepts and algorithms
+    
 [✓] Develop Real-World Projects
+    └─ 4+ production projects deployed
+    
 [✓] Explore AI Automation
+    └─ Implemented automation solutions
+```
 
-[⟳] Master Computer Vision
-[⟳] Advance Deep Learning
-[⟳] Build Production AI Systems
+### ⏳ Current Work (In Progress)
+```
+[→] Master Computer Vision
+    ├─ Advanced object detection
+    ├─ Image segmentation techniques
+    └─ Real-time processing systems
+    
+[→] Advance Deep Learning
+    ├─ Transformer architectures
+    ├─ Advanced CNN designs
+    └─ Multi-modal learning
+    
+[→] Build Production AI Systems
+    ├─ Scalable ML pipelines
+    ├─ Model deployment strategies
+    └─ System optimization
+```
 
+### ⬜ Future Goals (Planned)
+```
 [ ] Publish Research Papers
+    ├─ Novel AI applications
+    ├─ Computer vision breakthroughs
+    └─ Industry insights
+    
 [ ] Contribute to Open Source
-[ ] Become Professional AI Engineer
+    ├─ AI/ML community projects
+    ├─ Framework improvements
+    └─ Tool development
+    
+[ ] Become Industry-Leading AI Engineer
+    ├─ Advanced research
+    ├─ Industry recognition
+    └─ Thought leadership
 ```
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 💡 Key Strengths
 
-<div align="center">
+### Technical Expertise
+→ Full-stack development with AI specialization
+→ Clean, efficient, and maintainable code
+→ Best practices in software architecture
+→ Production-ready system design
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
+### Problem Solving
+→ Analytical approach to complex challenges
+→ Breaking down problems into components
+→ Data-driven decision making
+→ Innovative solution design
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsafy&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF"/>
+### Research & Development
+→ Staying current with AI/ML advancements
+→ Implementing cutting-edge techniques
+→ Continuous experimentation
+→ Innovation-focused mindset
 
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
-
-</div>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="mailto:ihsafy2k21@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://github.com/ihsafy">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-
-</div>
+### Collaboration & Communication
+→ Clear technical documentation
+→ Effective team communication
+→ Knowledge sharing and mentoring
+→ Community engagement
 
 ---
 
-# 💭 PHILOSOPHY
+## 🔬 Areas of Expertise
 
-<div align="center">
+### Machine Learning
+• Supervised Learning (Regression, Classification)
+• Unsupervised Learning (Clustering, Dimensionality Reduction)
+• Ensemble Methods and Advanced Algorithms
+• Feature Engineering and Selection
+• Model Evaluation and Validation
+• Hyperparameter Optimization
 
-```txt
-Artificial Intelligence is more than technology.
+### Deep Learning
+• Convolutional Neural Networks (CNN)
+• Recurrent Neural Networks (RNN)
+• Transformer Architectures
+• Transfer Learning and Fine-tuning
+• Autoencoders and Generative Models
+• Multi-task Learning
 
-It is the ability to create systems
-that amplify human potential,
-solve meaningful problems,
-and shape the future.
+### Computer Vision
+• Image Classification and Recognition
+• Object Detection and Localization
+• Semantic and Instance Segmentation
+• Face Recognition and Detection
+• Image Enhancement and Processing
+• Real-time Video Analysis
+
+### NLP & LLMs
+• Text Preprocessing and Tokenization
+• Word Embeddings and Representations
+• Transformer-based Models
+• Fine-tuning Language Models
+• Prompt Engineering
+• Retrieval-Augmented Generation (RAG)
+
+### Full-Stack Development
+• Backend Architecture Design
+• Database Design and Optimization
+• API Development and Integration
+• Frontend User Experience
+• Security and Authentication
+• Deployment and DevOps
+
+---
+
+## 📚 What I'm Currently Learning
+
+### 🔄 Active Learning Areas
+→ Advanced Computer Vision Techniques
+  • State-of-the-art object detection models
+  • Advanced segmentation algorithms
+  • 3D vision and point cloud processing
+  
+→ Production ML Systems
+  • Scalable machine learning pipelines
+  • Model serving and inference optimization
+  • Monitoring and maintaining ML systems
+  
+→ LLM Fine-tuning & Optimization
+  • Domain-specific language models
+  • Efficient fine-tuning techniques
+  • RAG system implementation
+  
+→ Research & Innovation
+  • Novel deep learning architectures
+  • Applications in healthcare AI
+  • Edge computing for AI systems
+  
+→ Open Source Contributions
+  • AI/ML framework development
+  • Contributing to major projects
+  • Community engagement
+
+---
+
+## 🌍 My Philosophy
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                      GUIDING PRINCIPLES                        ║
+╚════════════════════════════════════════════════════════════════╝
+
+"Artificial Intelligence is more than technology.
+
+It is the ability to create systems that amplify human potential,
+solve meaningful problems, and shape the future."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 I Believe In:
+
+  • Building AI systems with real-world impact
+  • Empowering teams through knowledge sharing
+  • Continuous learning and innovation
+  • Using technology responsibly for good
+  • Creating accessible and inclusive solutions
+  • Ethical AI development practices
+  • Community contribution and collaboration
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-</div>
+---
+
+## 🤝 Let's Connect & Collaborate
+
+### I'm Interested In:
+→ Collaborating on innovative AI/ML projects
+→ Discussing cutting-edge AI technologies
+→ Contributing to meaningful open-source projects
+→ Sharing knowledge and experiences
+→ Building intelligent solutions for real problems
+→ Research and academic collaborations
+
+### Contact Information
+
+📧 **Email:** ihsafy2k21@gmail.com
+
+🐙 **GitHub:** github.com/ihsafy
+
+💼 **Open To:** 
+   • Collaborations on AI/ML projects
+   • Freelance opportunities
+   • Full-time positions
+   • Research partnerships
+   • Consulting projects
+
+---
+
+## 📈 Quick Facts & Stats
+
+```
+Total Projects Created:        4+ Production Projects
+Focus Areas:                   AI/ML, Computer Vision
+Development Style:             Quality-focused, Iterative
+Learning Approach:             Project-based, Hands-on
+Code Philosophy:               Clean, Maintainable, Scalable
+Community Engagement:          Active & Growing
+```
+
+### Projects Breakdown
+→ Deep Learning/Medical AI:     1 Project
+→ E-Commerce Solutions:         1 Project
+→ Platform Applications:        2 Projects
+→ Total Users Impacted:         100+ Users
+→ Repositories:                 Multiple Public Repos
+
+---
+
+## 🎓 Achievements & Milestones
+
+### Education & Certifications
+→ B.Sc. Computer Science & Engineering (East West University)
+→ AI & Machine Learning Specialization (Self-Study)
+→ Deep Learning Practitioner
+→ Computer Vision Specialist
+
+### Technical Achievements
+→ Built and deployed 4+ production projects
+→ Implemented advanced deep learning systems
+→ Created scalable backend solutions
+→ Developed computer vision applications
+→ Full-stack AI/ML system architect
+
+### Learning Achievements
+→ 85% proficiency in Machine Learning
+→ 78% proficiency in Computer Vision
+→ 70% proficiency in Deep Learning
+→ Active continuous learner in emerging AI tech
+
+---
+
+## ⭐ If You Find My Work Interesting
+
+Please consider:
+→ Starring my repositories ⭐
+→ Following for updates on new projects
+→ Engaging with my latest AI/ML work
+→ Sharing feedback and suggestions
+→ Collaborating on exciting projects
+
+---
+
+## 🚀 Recent Focus Areas
+
+### Q2 2026 Priorities
+1. **Advanced Computer Vision**
+   - Implementing state-of-the-art detection models
+   - Exploring 3D vision techniques
+   
+2. **Production ML Systems**
+   - Building scalable ML pipelines
+   - Optimizing model inference
+   
+3. **Open Source Contributions**
+   - Contributing to AI frameworks
+   - Community engagement
+   
+4. **Research Exploration**
+   - Novel AI applications
+   - Healthcare AI innovations
+
+---
+
+## 💬 Words of Wisdom
+
+> "The future belongs to those who can combine deep technical knowledge
+> with creative problem-solving. Every line of code is an opportunity
+> to build something smarter."
+
+> "In AI and Machine Learning, the journey of learning never stops.
+> What matters is the commitment to continuous improvement and
+> building systems that truly matter."
+
+---
+
+## 📝 Latest Updates
+
+**Last Updated:** May 2026
+**Status:** 🟢 Active & Continuously Learning
+**Availability:** Open to collaborations and opportunities
+
+---
+
+## 🙏 Thank You
+
+Thank you for visiting my GitHub profile! I'm excited about the intersection
+of AI, machine learning, and real-world problem-solving. Whether you're
+interested in collaboration, discussing AI/ML topics, or just saying hello,
+feel free to reach out.
+
+Let's build intelligent systems that make a difference! 🚀
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00F7FF,50:111827,100:0f172a&text=Thanks%20For%20Visiting%20🚀&fontSize=34&fontColor=ffffff&animation=twinkling"/>
+**Created with ❤️ by IH Safy**
+
+Building the future, one algorithm at a time.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+© 2026 • AI Engineer • Machine Learning Specialist • Computer Vision Developer
 
 </div>
