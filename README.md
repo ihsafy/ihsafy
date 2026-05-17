@@ -1,427 +1,293 @@
-/* ═══════════════════════════════════════════════════════════════════════════ */
-/* TASK MASTER - TO-DO LIST APPLICATION                                        */
-/* JavaScript Application Logic                                                */
-/* ═══════════════════════════════════════════════════════════════════════════ */
-
-// ─────────────────────────────────────────────────────────────────────────────
-// TASK MANAGER CLASS
-// ─────────────────────────────────────────────────────────────────────────────
-
-class TaskManager {
-    constructor() {
-        // Configuration
-        this.storageKey = 'taskMasterData';
-        this.currentFilter = 'all';
-        this.tasks = [];
-
-        // DOM Elements
-        this.taskInput = document.getElementById('taskInput');
-        this.prioritySelect = document.getElementById('prioritySelect');
-        this.addBtn = document.getElementById('addBtn');
-        this.tasksList = document.getElementById('tasksList');
-        this.tasksSubtitle = document.getElementById('tasksSubtitle');
-        this.clearCompletedBtn = document.getElementById('clearCompletedBtn');
-        this.clearAllBtn = document.getElementById('clearAllBtn');
-        this.notificationContainer = document.getElementById('notificationContainer');
-
-        // Statistics Elements
-        this.totalTasksEl = document.getElementById('totalTasks');
-        this.completedTasksEl = document.getElementById('completedTasks');
-        this.pendingTasksEl = document.getElementById('pendingTasks');
-
-        // Initialize
-        this.init();
-    }
-
-    // ─────────────────────────────────────────────────────────────────────────
-    // INITIALIZATION
-    // ─────────────────────────────────────────────────────────────────────────
-
-    init() {
-        // Load tasks from local storage
-        this.loadTasks();
-
-        // Setup event listeners
-        this.setupEventListeners();
-
-        // Initial render
-        this.render();
-
-        // Log startup
-        console.log('✓ Task Master initialized');
-    }
-
-    setupEventListeners() {
-        // Add task button
-        this.addBtn.addEventListener('click', () => this.addTask());
-
-        // Input field - Enter key
-        this.taskInput.addEventListener('keypress', (e) => {
-            if (e.key === 'Enter') {
-                e.preventDefault();
-                this.addTask();
-            }
-        });
-
-        // Clear buttons
-        this.clearCompletedBtn.addEventListener('click', () => this.clearCompleted());
-        this.clearAllBtn.addEventListener('click', () => this.clearAll());
-
-        // Filter buttons
-        document.querySelectorAll('.filter-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                const filter = e.currentTarget.dataset.filter;
-                this.setFilter(filter);
-            });
-        });
-    }
-
-    // ─────────────────────────────────────────────────────────────────────────
-    // TASK OPERATIONS (CRUD)
-    // ─────────────────────────────────────────────────────────────────────────
-
-    addTask() {
-        const text = this.taskInput.value.trim();
-        const priority = this.prioritySelect.value;
-
-        // Validation
-        if (!text) {
-            this.showNotification('Please enter a task', 'error');
-            return;
-        }
-
-        if (text.length > 200) {
-            this.showNotification('Task is too long (max 200 characters)', 'error');
-            return;
-        }
-
-        // Create task object
-        const task = {
-            id: Date.now(),
-            text: this.escapeHTML(text),
-            completed: false,
-            priority: priority,
-            createdAt: new Date().toLocaleDateString('en-US', {
-                month: '2-digit',
-                day: '2-digit',
-                year: 'numeric'
-            }),
-            createdTime: new Date().toLocaleTimeString('en-US', {
-                hour: '2-digit',
-                minute: '2-digit',
-                hour12: true
-            })
-        };
-
-        // Add to tasks array
-        this.tasks.unshift(task);
-
-        // Clear input
-        this.taskInput.value = '';
-        this.prioritySelect.value = 'medium';
-
-        // Save and render
-        this.saveTasks();
-        this.render();
-
-        // Show notification
-        this.showNotification(`✓ Task added: "${text.substring(0, 30)}..."`, 'success');
-    }
-
-    deleteTask(id) {
-        const taskIndex = this.tasks.findIndex(t => t.id === id);
-        if (taskIndex === -1) return;
-
-        const taskText = this.tasks[taskIndex].text;
-        this.tasks.splice(taskIndex, 1);
-
-        this.saveTasks();
-        this.render();
-        this.showNotification(`✓ Task deleted`, 'info');
-    }
-
-    toggleTask(id) {
-        const task = this.tasks.find(t => t.id === id);
-        if (task) {
-            task.completed = !task.completed;
-            this.saveTasks();
-            this.render();
-        }
-    }
-
-    editTask(id) {
-        const task = this.tasks.find(t => t.id === id);
-        if (!task) return;
-
-        // Simple prompt for edit
-        const newText = prompt('Edit task:', this.unescapeHTML(task.text));
-
-        if (newText === null) return; // User cancelled
-        if (!newText.trim()) {
-            this.showNotification('Task cannot be empty', 'error');
-            return;
-        }
-        if (newText.length > 200) {
-            this.showNotification('Task is too long', 'error');
-            return;
-        }
-
-        task.text = this.escapeHTML(newText.trim());
-        this.saveTasks();
-        this.render();
-        this.showNotification('✓ Task updated', 'success');
-    }
-
-    // ─────────────────────────────────────────────────────────────────────────
-    // FILTERING & SORTING
-    // ─────────────────────────────────────────────────────────────────────────
-
-    setFilter(filter) {
-        this.currentFilter = filter;
-
-        // Update filter button states
-        document.querySelectorAll('.filter-btn').forEach(btn => {
-            btn.classList.remove('active');
-            if (btn.dataset.filter === filter) {
-                btn.classList.add('active');
-            }
-        });
-
-        this.render();
-    }
-
-    getFilteredTasks() {
-        switch (this.currentFilter) {
-            case 'active':
-                return this.tasks.filter(t => !t.completed);
-            case 'completed':
-                return this.tasks.filter(t => t.completed);
-            case 'high':
-                return this.tasks.filter(t => t.priority === 'high');
-            default:
-                return this.tasks;
-        }
-    }
-
-    // ─────────────────────────────────────────────────────────────────────────
-    // RENDERING
-    // ─────────────────────────────────────────────────────────────────────────
-
-    render() {
-        this.renderTasks();
-        this.updateStats();
-        this.updateFilterCounts();
-    }
-
-    renderTasks() {
-        const filteredTasks = this.getFilteredTasks();
-        this.tasksList.innerHTML = '';
-
-        if (filteredTasks.length === 0) {
-            this.tasksSubtitle.textContent = this.getEmptyMessage();
-            return;
-        }
-
-        this.tasksSubtitle.textContent = `Showing ${filteredTasks.length} task${filteredTasks.length !== 1 ? 's' : ''}`;
-
-        filteredTasks.forEach(task => {
-            const taskElement = this.createTaskElement(task);
-            this.tasksList.appendChild(taskElement);
-        });
-    }
-
-    createTaskElement(task) {
-        const div = document.createElement('div');
-        div.className = `task-item ${task.priority}-priority`;
-        if (task.completed) div.classList.add('completed');
-
-        const priorityIcon = {
-            high: '🔴',
-            medium: '🟡',
-            low: '🟢'
-        }[task.priority];
-
-        const priorityLabel = {
-            high: 'High',
-            medium: 'Medium',
-            low: 'Low'
-        }[task.priority];
-
-        div.innerHTML = `
-            <input 
-                type="checkbox" 
-                class="task-checkbox" 
-                ${task.completed ? 'checked' : ''}
-                aria-label="Mark task as complete"
-            >
-            <div class="task-content">
-                <p class="task-text">${task.text}</p>
-                <div class="task-meta">
-                    <span class="task-priority ${task.priority}">
-                        ${priorityIcon} ${priorityLabel}
-                    </span>
-                    <span class="task-date">${task.createdAt}</span>
-                    <span class="task-time">${task.createdTime}</span>
-                </div>
-            </div>
-            <div class="task-actions">
-                <button class="task-btn edit-btn" title="Edit task" aria-label="Edit task">
-                    ✏️
-                </button>
-                <button class="task-btn delete-btn" title="Delete task" aria-label="Delete task">
-                    🗑️
-                </button>
-            </div>
-        `;
-
-        // Event listeners
-        const checkbox = div.querySelector('.task-checkbox');
-        const editBtn = div.querySelector('.edit-btn');
-        const deleteBtn = div.querySelector('.delete-btn');
-
-        checkbox.addEventListener('change', () => this.toggleTask(task.id));
-        editBtn.addEventListener('click', () => this.editTask(task.id));
-        deleteBtn.addEventListener('click', () => this.deleteTask(task.id));
-
-        return div;
-    }
-
-    updateStats() {
-        const completed = this.tasks.filter(t => t.completed).length;
-        const pending = this.tasks.length - completed;
-
-        this.totalTasksEl.textContent = this.tasks.length;
-        this.completedTasksEl.textContent = completed;
-        this.pendingTasksEl.textContent = pending;
-    }
-
-    updateFilterCounts() {
-        const allCount = this.tasks.length;
-        const activeCount = this.tasks.filter(t => !t.completed).length;
-        const completedCount = this.tasks.filter(t => t.completed).length;
-        const highCount = this.tasks.filter(t => t.priority === 'high').length;
-
-        document.getElementById('count-all').textContent = allCount;
-        document.getElementById('count-active').textContent = activeCount;
-        document.getElementById('count-completed').textContent = completedCount;
-        document.getElementById('count-high').textContent = highCount;
-    }
-
-    // ─────────────────────────────────────────────────────────────────────────
-    // BULK OPERATIONS
-    // ─────────────────────────────────────────────────────────────────────────
-
-    clearCompleted() {
-        const completedCount = this.tasks.filter(t => t.completed).length;
-
-        if (completedCount === 0) {
-            this.showNotification('No completed tasks to clear', 'info');
-            return;
-        }
-
-        if (confirm(`Delete ${completedCount} completed task${completedCount !== 1 ? 's' : ''}?`)) {
-            this.tasks = this.tasks.filter(t => !t.completed);
-            this.saveTasks();
-            this.render();
-            this.showNotification(`✓ Cleared ${completedCount} task${completedCount !== 1 ? 's' : ''}`, 'success');
-        }
-    }
-
-    clearAll() {
-        if (this.tasks.length === 0) {
-            this.showNotification('No tasks to clear', 'info');
-            return;
-        }
-
-        if (confirm(`Delete all ${this.tasks.length} tasks? This cannot be undone!`)) {
-            this.tasks = [];
-            this.saveTasks();
-            this.render();
-            this.showNotification('✓ All tasks cleared', 'success');
-        }
-    }
-
-    // ─────────────────────────────────────────────────────────────────────────
-    // LOCAL STORAGE
-    // ─────────────────────────────────────────────────────────────────────────
-
-    loadTasks() {
-        try {
-            const stored = localStorage.getItem(this.storageKey);
-            this.tasks = stored ? JSON.parse(stored) : [];
-            console.log(`✓ Loaded ${this.tasks.length} tasks from local storage`);
-        } catch (error) {
-            console.error('Error loading tasks:', error);
-            this.tasks = [];
-            this.showNotification('Error loading tasks from storage', 'error');
-        }
-    }
-
-    saveTasks() {
-        try {
-            localStorage.setItem(this.storageKey, JSON.stringify(this.tasks));
-        } catch (error) {
-            console.error('Error saving tasks:', error);
-            this.showNotification('Error saving tasks to storage', 'error');
-        }
-    }
-
-    // ─────────────────────────────────────────────────────────────────────────
-    // NOTIFICATIONS
-    // ─────────────────────────────────────────────────────────────────────────
-
-    showNotification(message, type = 'info') {
-        const notification = document.createElement('div');
-        notification.className = `notification ${type}`;
-        notification.textContent = message;
-
-        this.notificationContainer.appendChild(notification);
-
-        // Auto remove after 3 seconds
-        setTimeout(() => {
-            notification.style.animation = 'fadeOut 0.3s ease-out';
-            setTimeout(() => notification.remove(), 300);
-        }, 3000);
-    }
-
-    // ─────────────────────────────────────────────────────────────────────────
-    // UTILITIES
-    // ─────────────────────────────────────────────────────────────────────────
-
-    escapeHTML(text) {
-        const div = document.createElement('div');
-        div.textContent = text;
-        return div.innerHTML;
-    }
-
-    unescapeHTML(text) {
-        const div = document.createElement('div');
-        div.innerHTML = text;
-        return div.textContent || div.innerText || '';
-    }
-
-    getEmptyMessage() {
-        const messages = {
-            all: '📭 No tasks yet. Add one to get started!',
-            active: '🎉 All tasks completed! Great job!',
-            completed: '📝 No completed tasks yet.',
-            high: '🟢 No high priority tasks.'
-        };
-        return messages[this.currentFilter] || messages.all;
-    }
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// APPLICATION INITIALIZATION
-// ─────────────────────────────────────────────────────────────────────────────
-
-// Initialize when DOM is ready
-document.addEventListener('DOMContentLoaded', () => {
-    const app = new TaskManager();
-    console.log('🚀 Task Master is ready!');
-});
-
-// Handle beforeunload
-window.addEventListener('beforeunload', () => {
-    console.log('💾 Saving tasks before leaving...');
-});
+<!-- ============================================================
+     CYBERPUNK README — IH SAFY
+     ============================================================ -->
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗███╗  ██╗██╗  ██╗ ║
+║ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║████╗ ██║██║ ██╔╝ ║
+║ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗██║█████╔╝  ║
+║ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██║╚████║██╔═██╗  ║
+║ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚███║██║  ██╗ ║
+║  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚══╝╚═╝  ╚═╝ ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=900&lines=%5BSYSTEM+BOOT%5D+Initializing+Neural+Core...;%5BONLINE%5D+AI+%26+Machine+Learning+Engineer;%5BACTIVE%5D+Computer+Vision+Specialist;%5BLOADED%5D+Deep+Learning+%7C+LLM+Systems;%5BREADY%5D+Building+Intelligent+Machines+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/-%3E%3E_NEURAL_LINK_ESTABLISHED_<<%20-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![AI Engineer](https://img.shields.io/badge/AI__ENGINEER-00FF41?style=flat-square&logo=openai&logoColor=0d0d0d&labelColor=0d0d0d)
+![Computer Vision](https://img.shields.io/badge/COMPUTER__VISION-FF003C?style=flat-square&logo=opencv&logoColor=FF003C&labelColor=0d0d0d)
+![Deep Learning](https://img.shields.io/badge/DEEP__LEARNING-00BFFF?style=flat-square&logo=pytorch&logoColor=00BFFF&labelColor=0d0d0d)
+![LLM](https://img.shields.io/badge/LLM__ENGINEERING-FF6B00?style=flat-square&logo=openai&logoColor=FF6B00&labelColor=0d0d0d)
+![Location](https://img.shields.io/badge/SECTOR-Dhaka,_BD-00FF41?style=flat-square&logo=googlemaps&logoColor=00FF41&labelColor=0d0d0d)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ihsafy&label=UPLINK+COUNT&color=00FF41&style=flat-square&labelColor=0d0d0d)
+![Followers](https://img.shields.io/github/followers/ihsafy?style=flat-square&color=FF003C&labelColor=0d0d0d&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/ihsafy?style=flat-square&color=00BFFF&labelColor=0d0d0d&label=STARS)
+
+</div>
+
+---
+
+## `// SYS.LOG — OPERATOR PROFILE`
+
+```javascript
+const operator = {
+  handle      : "IH SAFY",
+  clearance   : "LEVEL-5 // AI SYSTEMS",
+  node        : "Dhaka, Bangladesh 🇧🇩",
+  uplink      : "East West University — B.Sc. CSE",
+  directive   : "Design AI systems that solve meaningful real-world problems",
+
+  core_systems: [
+    "Artificial Intelligence",
+    "Deep Learning & Neural Architectures",
+    "Computer Vision & Object Detection",
+    "LLM Engineering & Prompt Systems",
+    "AI Automation & Intelligent Pipelines"
+  ],
+
+  status      : "ONLINE ⚡",
+  threat_level: "MAXIMUM PRODUCTIVITY 🔥"
+};
+```
+
+---
+
+## `// MODULE.LOAD — TECH STACK`
+
+<div align="center">
+
+**◈ CORE LANGUAGES ◈**
+
+![Python](https://img.shields.io/badge/PYTHON-0d0d0d?style=for-the-badge&logo=python&logoColor=00FF41)
+![Java](https://img.shields.io/badge/JAVA-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=FF003C)
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=00BFFF)
+![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=9B59B6)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d0d0d?style=for-the-badge&logo=javascript&logoColor=FF6B00)
+
+**◈ NEURAL FRAMEWORKS ◈**
+
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=FF6B00)
+![PyTorch](https://img.shields.io/badge/PYTORCH-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=FF003C)
+![OpenCV](https://img.shields.io/badge/OPENCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=00FF41)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/PANDAS-0d0d0d?style=for-the-badge&logo=pandas&logoColor=00BFFF)
+![NumPy](https://img.shields.io/badge/NUMPY-0d0d0d?style=for-the-badge&logo=numpy&logoColor=9B59B6)
+![Jupyter](https://img.shields.io/badge/JUPYTER-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=FF6B00)
+
+**◈ INTERFACE LAYER ◈**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=FF003C)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=00BFFF)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=9B59B6)
+![MySQL](https://img.shields.io/badge/MYSQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00FF41)
+
+**◈ OPERATIONS ◈**
+
+![Git](https://img.shields.io/badge/GIT-0d0d0d?style=for-the-badge&logo=git&logoColor=FF003C)
+![GitHub](https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/VSCODE-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF)
+![Linux](https://img.shields.io/badge/LINUX-0d0d0d?style=for-the-badge&logo=linux&logoColor=FF6B00)
+
+</div>
+
+---
+
+## `// COMBAT.STATS — SPECIALIZATION MATRIX`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                  ⬡  DOMAIN  REGISTRY  ⬡                    │
+├──────────────────────┬──────────────────────┬───────────────┤
+│  SECTOR              │  ARSENAL             │  DIRECTIVE    │
+├──────────────────────┼──────────────────────┼───────────────┤
+│  🧠 Machine Learning │  Scikit-Learn/Pandas │  Prediction   │
+│  👁 Computer Vision  │  OpenCV/CNN/YOLO     │  Detection    │
+│  ⚡ Deep Learning    │  TF / PyTorch        │  Neural Nets  │
+│  🤖 LLM Engineering  │  RAG / Prompts       │  Automation   │
+│  🌐 Backend Systems  │  PHP / MySQL         │  Web Infra    │
+└──────────────────────┴──────────────────────┴───────────────┘
+```
+
+---
+
+## `// SKILL.CALIBRATE — PROFICIENCY LEVELS`
+
+```
+ MACHINE LEARNING   [████████████████████░░░]  85%  ▶ EXPERT
+ COMPUTER VISION    [██████████████████░░░░░]  78%  ▶ ADVANCED
+ DEEP LEARNING      [████████████████░░░░░░░]  70%  ▶ ADVANCED
+ LLM ENGINEERING    [██████████████░░░░░░░░░]  62%  ▶ INTERMEDIATE
+ BACKEND / WEB      [████████████░░░░░░░░░░░]  55%  ▶ INTERMEDIATE
+
+ ░ = PROCESSING    ▓ = OPTIMIZING    █ = MASTERED
+```
+
+---
+
+## `// MISSION.LOG — FEATURED PROJECTS`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  PROJECT ARCHIVE — CLASSIFIED OPERATIONS                        ║
+╠══════════════════════════════════════════════════════════════════╣
+```
+
+**`OPERATION: MINDSCANNER`** &nbsp;&nbsp; `[MEDICAL_AI]` `[DEEP_LEARNING]`
+> Alzheimer's MRI Multi-Class Classification System using CNN Architecture.
+> Intelligent detection system for medical imaging analysis.
+> Status: `DEPLOYED ✓`
+
+```
+───────────────────────────────────────────────────────────────────
+```
+
+**`OPERATION: RORA LUXE`** &nbsp;&nbsp; `[FULL_STACK]` `[E-COMMERCE]`
+> Full-stack luxury marketplace with responsive UI/UX and secure backend.
+> Built on PHP + MySQL with complete product management system.
+> Status: `DEPLOYED ✓`
+
+```
+───────────────────────────────────────────────────────────────────
+```
+
+**`OPERATION: BOOK SEEKERS`** &nbsp;&nbsp; `[SMART_PLATFORM]` `[LIBRARY]`
+> Intelligent library platform with smart search & recommendation engine.
+> Full database integration for seamless book management experience.
+> Status: `DEPLOYED ✓`
+
+```
+───────────────────────────────────────────────────────────────────
+```
+
+**`OPERATION: EWU FOOD HUB`** &nbsp;&nbsp; `[CAMPUS_TECH]` `[REAL_TIME]`
+> Campus food listing platform designed for students.
+> Real-time experience with user-friendly interface.
+> Status: `DEPLOYED ✓`
+
+```
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `// OBJECTIVE.TREE — ROADMAP`
+
+```
+ ROOT@SAFY:~$ cat mission_objectives.log
+
+ [✓] BUILD    »  AI & ML Foundations ..................... COMPLETE
+ [✓] FORGE    »  Real-World Project Portfolio ............ COMPLETE
+ [✓] UNLOCK   »  AI Automation Systems ................... COMPLETE
+ [⟳] MASTER   »  Computer Vision Architecture ........... IN PROGRESS
+ [⟳] ADVANCE  »  Deep Learning & Neural Systems ......... IN PROGRESS
+ [⟳] DEPLOY   »  Production-Grade AI Pipelines .......... IN PROGRESS
+ [ ] PUBLISH  »  Research Papers & Findings ............. QUEUED
+ [ ] MERGE    »  Open Source Contributions .............. QUEUED
+ [ ] ACHIEVE  »  Professional AI Engineer Status ........ QUEUED
+
+ ROOT@SAFY:~$ █
+```
+
+---
+
+## `// ANALYTICS.FEED — GITHUB STATS`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=FF003C&text_color=aaffaa&border_color=00FF41"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsafy&theme=dark&hide_border=true&background=0d0d0d&stroke=00FF41&ring=FF003C&fire=FF6B00&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=ffffff&sideNums=aaffaa&dates=555555"/>
+
+</div>
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=aaffaa"/>
+
+</div>
+
+---
+
+## `// ACTIVITY.TRACE`
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=react-dark&bg_color=0d0d0d&color=00FF41&line=FF003C&point=00BFFF&area=true&hide_border=true)](https://github.com/ihsafy)
+
+</div>
+
+---
+
+## `// UPLINK.PROTOCOL — CONTACT`
+
+<div align="center">
+
+```
+╔═════════════════════════════════════════════╗
+║     ESTABLISH SECURE COMMUNICATION LINK     ║
+╚═════════════════════════════════════════════╝
+```
+
+[![Gmail](https://img.shields.io/badge/SECURE__MAIL-ihsafy2k21%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF003C&labelColor=0d0d0d)](mailto:ihsafy2k21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB__UPLINK-ihsafy-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d0d0d)](https://github.com/ihsafy)
+
+</div>
+
+---
+
+## `// CORE.DIRECTIVE — PHILOSOPHY`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   "Artificial Intelligence is not just technology —            │
+│    it is the ability to create systems that amplify            │
+│    human potential, solve meaningful problems,                  │
+│    and architect the future."                                   │
+│                                                                 │
+│                                        — IH SAFY               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Uplink+session+terminated.+Thank+you+for+visiting.;%5BCORE%5D+Neural+signature+logged.+See+you+in+the+grid.+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         CONNECTION TERMINATED // SEE YOU IN THE GRID
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+</div>
