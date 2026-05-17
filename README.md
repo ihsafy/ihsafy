@@ -229,15 +229,34 @@ ROOT@SAFY:~$ █
 
 ## `⟫ 07 // GITHUB ANALYTICS`
 
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                   REPOSITORY SYSTEM REPORT                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   TOTAL CONTRIBUTIONS  ›  140        Mar 2022 — Present          ║
+║   CURRENT STREAK       ›  2 days     May 17 — May 18             ║
+║   LONGEST STREAK       ›  4 days     Jan 17 — Jan 20, 2025       ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║   TOP LANGUAGES                                                  ║
+║   ▸ Python        ████████████████████░░░░  Primary              ║
+║   ▸ PHP           ████████████████░░░░░░░░  Secondary            ║
+║   ▸ JavaScript    ████████████░░░░░░░░░░░░  Tertiary             ║
+║   ▸ HTML / CSS    █████████░░░░░░░░░░░░░░░  Interface            ║
+╠══════════════════════════════════════════════════════════════════╣
+║   COMMIT FREQUENCY  ›  Active                                    ║
+║   PUBLIC REPOS      ›  Growing                                   ║
+║   ACCOUNT SINCE     ›  Mar 13, 2022                              ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=FF003C&text_color=aaffaa)](https://github.com/ihsafy)
-&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihsafy&theme=dark&hide_border=true&background=0d0d0d&stroke=00FF41&ring=FF003C&fire=FF6B00&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=ffffff&sideNums=aaffaa&dates=555555)](https://github.com/ihsafy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=aaffaa)](https://github.com/ihsafy)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=react-dark&bg_color=0d0d0d&color=00FF41&line=FF003C&point=00BFFF&area=true&hide_border=true)](https://github.com/ihsafy)
+![Commits](https://img.shields.io/badge/TOTAL_COMMITS-140-00FF41?style=for-the-badge&labelColor=0d0d0d)
+![Streak](https://img.shields.io/badge/CURRENT_STREAK-2_days-FF003C?style=for-the-badge&labelColor=0d0d0d)
+![Longest](https://img.shields.io/badge/LONGEST_STREAK-4_days-00BFFF?style=for-the-badge&labelColor=0d0d0d)
+![Since](https://img.shields.io/badge/ACTIVE_SINCE-Mar_2022-FF6B00?style=for-the-badge&labelColor=0d0d0d)
 
 </div>
 
