@@ -191,29 +191,30 @@ Current Goal:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true"
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true"
+
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=ihsafy&theme=tokyonight&hide_border=true"
+  <img
+    src="https://github-stats-extended.vercel.app/api/streak?username=ihsafy&theme=tokyonight&hide_border=true"
+    height="180"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Activity Graph"
   />
 </p>
