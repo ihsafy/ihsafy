@@ -281,9 +281,19 @@ Current Goal:
 
 # 🏆 GitHub Trophies
 
+# 🏆 GitHub Highlights
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ihsafy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://img.shields.io/badge/CSE-East_West_University-2563eb?style=for-the-badge&logo=googlescholar&logoColor=white" alt="EWU CSE"/>
+<img src="https://img.shields.io/badge/Focus-AI_%7C_ML_%7C_LLM-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="Focus"/>
+<img src="https://img.shields.io/badge/Medical_Image_Processing-06b6d4?style=for-the-badge&logo=opencv&logoColor=white" alt="Medical Image Processing"/>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/ihsafy?style=for-the-badge&logo=github&color=7c3aed" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/ihsafy?style=for-the-badge&logo=github&color=f59e0b" alt="Stars"/>
+<img src="https://img.shields.io/github/languages/count/ihsafy/ihsafy?style=for-the-badge&logo=github&color=0ea5e9" alt="Languages"/>
 
 </div>
 
