@@ -192,13 +192,13 @@ Current Goal:
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
     alt="Top Languages"
   />
@@ -206,7 +206,7 @@ Current Goal:
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/streak?username=ihsafy&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=ihsafy&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
