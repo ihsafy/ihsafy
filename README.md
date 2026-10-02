@@ -211,10 +211,9 @@ Current Goal:
     alt="GitHub Streak"
   />
 </p>
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=tokyo-night&area=true&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
