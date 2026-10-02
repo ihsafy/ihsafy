@@ -213,11 +213,10 @@ Current Goal:
 </p>
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=tokyo-night&area=true&hide_border=true"
+    src="https://YOUR-PROJECT-NAME.vercel.app/graph?username=ihsafy&theme=tokyo-night&area=true&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
-
 # 🏆 Achievements & Vision
 
 <div align="center">
