@@ -243,9 +243,8 @@ Current Goal:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsafy&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://ghchart.rshah.org/2563eb/ihsafy" alt="GitHub Contribution Chart"/>
 </p>
-
 ---
 
 # 🏆 Achievements & Vision
