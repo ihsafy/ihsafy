@@ -279,9 +279,11 @@ Current Goal:
 
 # 🐍 Contribution Snake
 
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ihsafy/ihsafy/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ihsafy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
