@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="ftTitle ftDesc">
+  <title id="ftTitle">Final Transmission</title>
+  <desc id="ftDesc">JARVIS shutdown footer with arc reactor ring, blinking power reading and holographic waves</desc>
+  <defs>
+    <linearGradient id="fb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#080B12"/>
+      <stop offset="1" stop-color="#0F1524"/>
+    </linearGradient>
+    <radialGradient id="fc" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#0B3B5E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#fb)"/>
+
+  <g stroke="#F5B942" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M18,18 H58 M18,18 V58"/>
+    <path d="M1182,18 H1142 M1182,18 V58"/>
+    <path d="M18,242 V202 M18,242 H58"/>
+    <path d="M1182,242 V202 M1182,242 H1142"/>
+  </g>
+
+  <text x="600" y="62" text-anchor="middle" font-family="Consolas,monospace" font-size="26" font-weight="bold" letter-spacing="8" fill="#00E5FF">MISSION ACCOMPLISHED</text>
+  <text x="600" y="90" text-anchor="middle" font-family="Consolas,monospace" font-size="13" letter-spacing="3" fill="#F5B942">ALL SYSTEMS NOMINAL // SIGNAL STABLE</text>
+
+  <!-- mini arc reactor -->
+  <g>
+    <circle cx="600" cy="152" r="70" fill="none" stroke="#F5B942" stroke-width="9" stroke-dasharray="10 8" opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" from="0 600 152" to="360 600 152" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="152" r="50" fill="none" stroke="#E62429" stroke-width="2.5" stroke-dasharray="20 10">
+      <animateTransform attributeName="transform" type="rotate" from="360 600 152" to="0 600 152" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="152" r="34" fill="none" stroke="#00E5FF" stroke-width="1.5" stroke-dasharray="6 8" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="0 600 152" to="360 600 152" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="152" r="20" fill="url(#fc)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- holographic waves (seamless scroll) -->
+  <g>
+    <g>
+      <path d="M0,234 Q150,222 300,232 T600,232 T900,232 T1200,232 L1200,260 L0,260 Z" fill="#00E5FF" opacity="0.18"/>
+      <path d="M0,243 Q150,232 300,241 T600,241 T900,241 T1200,241 L1200,260 L0,260 Z" fill="#E62429" opacity="0.26"/>
+      <path d="M0,251 Q150,245 300,250 T600,250 T900,250 T1200,250 L1200,260 L0,260 Z" fill="#F5B942" opacity="0.22"/>
+    </g>
+    <g transform="translate(600,0)">
+      <path d="M0,234 Q150,222 300,232 T600,232 T900,232 T1200,232 L1200,260 L0,260 Z" fill="#00E5FF" opacity="0.18"/>
+      <path d="M0,243 Q150,232 300,241 T600,241 T900,241 T1200,241 L1200,260 L0,260 Z" fill="#E62429" opacity="0.26"/>
+      <path d="M0,251 Q150,245 300,250 T600,250 T900,250 T1200,250 L1200,260 L0,260 Z" fill="#F5B942" opacity="0.22"/>
+    </g>
+    <g transform="translate(1200,0)">
+      <path d="M0,234 Q150,222 300,232 T600,232 T900,232 T1200,232 L1200,260 L0,260 Z" fill="#00E5FF" opacity="0.18"/>
+      <path d="M0,243 Q150,232 300,241 T600,241 T900,241 T1200,241 L1200,260 L0,260 Z" fill="#E62429" opacity="0.26"/>
+      <path d="M0,251 Q150,245 300,250 T600,250 T900,250 T1200,250 L1200,260 L0,260 Z" fill="#F5B942" opacity="0.22"/>
+    </g>
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="-600,0" dur="16s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="600" y="222" text-anchor="middle" font-family="Consolas,monospace" font-size="15" letter-spacing="2" fill="#F5F7FA">THANKS FOR VISITING</text>
+  <text x="1080" y="242" text-anchor="end" font-family="Consolas,monospace" font-size="11" letter-spacing="1" fill="#E62429">
+    POWER: 0% // CORE OFFLINE
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </text>
+  <text x="120" y="242" font-family="Consolas,monospace" font-size="11" letter-spacing="1" fill="#F5F7FA" fill-opacity="0.5">IH SAFY &#169; 2026 &#183; BUILT WITH CODE</text>
+</svg>

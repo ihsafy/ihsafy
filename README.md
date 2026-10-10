@@ -1,35 +1,37 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="IH SAFY — AI and Machine Learning Engineer, Computer Vision and Medical Imaging"/>
+<img src="./assets/jarvis-hero.svg" width="100%" alt="J.A.R.V.I.S. Developer Interface for IH SAFY — AI and Machine Learning Engineer, arc reactor and holographic scan line" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=820&height=50&lines=AI+%26+ML+Engineer+%7C+Computer+Vision;Medical+Imaging+%7C+Deep+Learning;Data+Analytics+%7C+LLM+%2B+RAG;Deploying+intelligent+systems+end+to+end" alt="AI and ML Engineer, Computer Vision, Medical Imaging, Deep Learning, Data Analytics, LLM and RAG, deployed end to end"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/East_West_University-CSE-3B82F6?style=for-the-badge&labelColor=0B1020" alt="East West University — Computer Science and Engineering"/>
-<img src="https://img.shields.io/badge/Dhaka-Bangladesh-22C55E?style=for-the-badge&labelColor=0B1020" alt="Located in Dhaka, Bangladesh"/>
-<img src="https://img.shields.io/badge/Status-Open_to_Work-F59E0B?style=for-the-badge&labelColor=0B1020" alt="Open to work"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=F5B942&center=true&vCenter=true&width=860&height=45&lines=AI+%2F+ML+ENGINEER+%7C+COMPUTER+VISION;MEDICAL+IMAGING+%7C+DEEP+LEARNING;DATA+ANALYTICS+%7C+LLM+%2B+RAG;DEPLOYING+INTELLIGENT+SYSTEMS+END+TO+END" alt="AI / ML Engineer, Computer Vision, Medical Imaging, Deep Learning, Data Analytics, LLM and RAG — deployed end to end" />
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/ihsafy?style=for-the-badge&logo=github&label=Followers&labelColor=0B1020&color=A855F7" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/ihsafy?affiliations=OWNER&style=for-the-badge&label=Stars&logo=github&labelColor=0B1020&color=00E5FF" alt="GitHub stars"/>
-<img src="https://komarev.com/ghpvc/?username=ihsafy&label=Profile+Views&style=for-the-badge&color=FF2D8B" alt="Profile views"/>
+<img src="https://img.shields.io/badge/East_West_University-CSE-E62429?style=for-the-badge&labelColor=080B12" alt="East West University — Computer Science and Engineering"/>
+<img src="https://img.shields.io/badge/Dhaka-Bangladesh-F5B942?style=for-the-badge&labelColor=080B12" alt="Located in Dhaka, Bangladesh"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00E5FF?style=for-the-badge&labelColor=080B12" alt="Open to work"/>
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/ihsafy?style=for-the-badge&logo=github&label=Followers&labelColor=080B12&color=E62429" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/ihsafy?affiliations=OWNER&style=for-the-badge&label=Stars&logo=github&labelColor=080B12&color=F5B942" alt="GitHub stars"/>
+<img src="https://komarev.com/ghpvc/?username=ihsafy&label=Profile+Views&style=for-the-badge&color=00E5FF" alt="Profile views"/>
 
 <br/><br/>
 
-**[🛰️ About](#-about-me) · [🧬 Arsenal](#-technology-arsenal) · [🚀 Projects](#-featured-projects) · [📊 Stats](#-github-statistics) · [🔭 Exploring](#-currently-exploring) · [🧭 Journey](#-journey-and-goals) · [🌐 Connect](#-connect-with-me)**
+**[System Profile](#system-profile) · [Arc Reactor](#arc-reactor) · [Arsenal](#technical-arsenal) · [Projects](#engineering-projects) · [Research Lab](#research-lab) · [Analytics](#analytics-center) · [Mission](#current-mission) · [Comms Log](#comms-log) · [Connect](#communication)**
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
 
-## 🛰 About Me
+## System Profile
 
-I'm **IH SAFY**, a Computer Science & Engineering graduate from **East West University, Dhaka**, working at the intersection of **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Medical Imaging**. I like taking a problem the whole way — from raw, messy data to a model running behind a real interface.
+![MODULE 01](https://img.shields.io/badge/MODULE_01-IDENTITY_MATRIX-F5B942?style=flat-square&labelColor=080B12)
+
+I'm **IH SAFY**, a Computer Science & Engineering graduate from **East West University, Dhaka**, engineering intelligent systems at the intersection of **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Medical Imaging**. I take problems the whole way — from raw, messy data to a model running behind a real interface, deployed on my own servers with a domain and SSL.
 
 ```ts
-// ihsafy.config.ts
+// ihsafy.config.ts — identity matrix
 export const ihSafy = {
   role:      "AI & ML Engineer",
   education: "B.Sc. CSE · East West University",
@@ -67,61 +69,87 @@ Data → model → API → UI → Linux VPS with domain + SSL
 </tr>
 </table>
 
-<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
 
-## 🧬 Technology Arsenal
+## Arc Reactor
+
+![MODULE 02](https://img.shields.io/badge/MODULE_02-ENERGY_DISPLAY-00E5FF?style=flat-square&labelColor=080B12)
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/◈_Languages-3B82F6?style=for-the-badge&labelColor=0B1020" alt="Languages"/> |
+<img src="./assets/arc-reactor.svg" width="360" alt="Arc reactor — concentric rotating energy rings with a pulsing cyan core and orbiting node" />
+
+<br/>
+
+| CORE | STATUS |
+|:--|:--|
+| ⚡ Power output | Stable — decorative display |
+| 🌀 Ring rotation | 4 concurrent, counter-rotating |
+| 🔵 Core illumination | Pulsing cyan |
+
+*Decorative engineering display. Live telemetry lives in the ⬇ [Analytics Center](#analytics-center).*
+
+</div>
+
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
+
+## Technical Arsenal
+
+![MODULE 03](https://img.shields.io/badge/MODULE_03-WEAPONS_ASSEMBLY-E62429?style=flat-square&labelColor=080B12)
+
+<div align="center">
+
+| <img src="https://img.shields.io/badge/◈_Programming_Languages-E62429?style=for-the-badge&labelColor=080B12" alt="Programming Languages"/> |
 |:--|
 | <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,php&theme=dark" alt="C, C++, Java, Python, JavaScript, PHP"/> |
 
-| <img src="https://img.shields.io/badge/◈_AI_%2F_ML_%26_Deep_Learning-A855F7?style=for-the-badge&labelColor=0B1020" alt="AI / ML and Deep Learning"/> |
+| <img src="https://img.shields.io/badge/◈_AI_%2F_ML_%26_Deep_Learning-00E5FF?style=for-the-badge&labelColor=080B12" alt="AI / ML and Deep Learning"/> |
 |:--|
 | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn&theme=dark" alt="PyTorch, TensorFlow, Keras, scikit-learn"/> |
 
-| <img src="https://img.shields.io/badge/◈_Computer_Vision_%26_Medical_Imaging-06B6D4?style=for-the-badge&labelColor=0B1020" alt="Computer Vision and Medical Imaging"/> |
+| <img src="https://img.shields.io/badge/◈_Computer_Vision_%26_Medical_Imaging-36A3FF?style=for-the-badge&labelColor=080B12" alt="Computer Vision and Medical Imaging"/> |
 |:--|
 | <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,py&theme=dark" alt="OpenCV, TensorFlow, PyTorch, Python"/> |
 
-| <img src="https://img.shields.io/badge/◈_Data_Analytics-F59E0B?style=for-the-badge&labelColor=0B1020" alt="Data Analytics"/> |
+| <img src="https://img.shields.io/badge/◈_Data_Analytics-F5B942?style=for-the-badge&labelColor=080B12" alt="Data Analytics"/> |
 |:--|
 | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> |
 
-| <img src="https://img.shields.io/badge/◈_Web_Development-22C55E?style=for-the-badge&labelColor=0B1020" alt="Web Development"/> |
+| <img src="https://img.shields.io/badge/◈_Web_Development-E62429?style=for-the-badge&labelColor=080B12" alt="Web Development"/> |
 |:--|
 | <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,tailwind&theme=dark" alt="React, Node.js, Express, HTML, CSS, Bootstrap, Tailwind CSS"/> |
 
-| <img src="https://img.shields.io/badge/◈_Databases-14B8A6?style=for-the-badge&labelColor=0B1020" alt="Databases"/> |
+| <img src="https://img.shields.io/badge/◈_Databases-36A3FF?style=for-the-badge&labelColor=080B12" alt="Databases"/> |
 |:--|
 | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="MySQL, PostgreSQL, MongoDB, SQLite"/> |
 
-| <img src="https://img.shields.io/badge/◈_DevOps_%26_Tooling-84CC16?style=for-the-badge&labelColor=0B1020" alt="DevOps and Tooling"/> |
+| <img src="https://img.shields.io/badge/◈_Deployment_%26_Tooling-F5B942?style=for-the-badge&labelColor=080B12" alt="Deployment and Tooling"/> |
 |:--|
 | <img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github,vscode&theme=dark" alt="Linux, Nginx, Docker, Git, GitHub, VS Code"/> |
 
 </div>
 
 <details open>
-<summary><b>🔎 Capability matrix</b></summary>
+<summary><b>⚙ Capability matrix</b></summary>
 <br/>
 
 | Domain | What I do | Level |
 |:--|:--|:--|
-| 🧠 **Deep Learning** | Model training · fine-tuning · CNNs · transfer learning | ![Advanced](https://img.shields.io/badge/Advanced-A855F7?style=flat-square&labelColor=0B1020) |
-| 👁️ **Computer Vision** | Detection · classification · preprocessing · augmentation | ![Advanced](https://img.shields.io/badge/Advanced-00E5FF?style=flat-square&labelColor=0B1020) |
-| 🩻 **Medical Imaging** | Detection · enhancement · leveling · analysis | ![Strong](https://img.shields.io/badge/Strong-06B6D4?style=flat-square&labelColor=0B1020) |
-| 💬 **LLM & RAG** | Retrieval pipelines · prompt design · automation | ![Strong](https://img.shields.io/badge/Strong-FF2D8B?style=flat-square&labelColor=0B1020) |
-| 🧹 **Data Engineering** | Cleaning · annotation · dataset preparation | ![Advanced](https://img.shields.io/badge/Advanced-22C55E?style=flat-square&labelColor=0B1020) |
-| 🕸️ **Full-Stack Web** | React · Node.js · PHP · REST APIs | ![Strong](https://img.shields.io/badge/Strong-84CC16?style=flat-square&labelColor=0B1020) |
-| 🚀 **Deployment** | VPS · Linux · Domain & SSL · server hosting | ![Solid](https://img.shields.io/badge/Solid-F59E0B?style=flat-square&labelColor=0B1020) |
+| 🧠 **Deep Learning** | Model training · fine-tuning · CNNs · transfer learning | ![Advanced](https://img.shields.io/badge/Advanced-F5B942?style=flat-square&labelColor=080B12) |
+| 👁️ **Computer Vision** | Detection · classification · preprocessing · augmentation | ![Advanced](https://img.shields.io/badge/Advanced-F5B942?style=flat-square&labelColor=080B12) |
+| 🩻 **Medical Imaging** | Detection · enhancement · leveling · analysis | ![Strong](https://img.shields.io/badge/Strong-00E5FF?style=flat-square&labelColor=080B12) |
+| 💬 **LLM & RAG** | Retrieval pipelines · prompt design · automation | ![Strong](https://img.shields.io/badge/Strong-00E5FF?style=flat-square&labelColor=080B12) |
+| 🧹 **Data Engineering** | Cleaning · annotation · dataset preparation | ![Advanced](https://img.shields.io/badge/Advanced-F5B942?style=flat-square&labelColor=080B12) |
+| 🕸️ **Full-Stack Web** | React · Node.js · PHP · REST APIs | ![Strong](https://img.shields.io/badge/Strong-00E5FF?style=flat-square&labelColor=080B12) |
+| 🚀 **Deployment** | VPS · Linux · Domain & SSL · server hosting | ![Solid](https://img.shields.io/badge/Solid-36A3FF?style=flat-square&labelColor=080B12) |
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+## Engineering Projects
+
+![MODULE 04](https://img.shields.io/badge/MODULE_04-PROJECT_COMMAND-36A3FF?style=flat-square&labelColor=080B12)
 
 <table>
 <tr>
@@ -129,7 +157,7 @@ Data → model → API → UI → Linux VPS with domain + SSL
 
 ### 🧠 [MindScanner AI](https://github.com/ihsafy/automated-multi-class-classification-of-MRI)
 
-Multi-class Alzheimer's disease stage classification from MRI images using **Inception-ResNet-V2**, with quantitative and qualitative evaluation.
+Multi-class **Alzheimer's disease stage classification from MRI images** using **Inception-ResNet-V2**, with quantitative and qualitative evaluation.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 
@@ -142,7 +170,7 @@ Multi-class Alzheimer's disease stage classification from MRI images using **Inc
 
 Machine learning system for detecting **dental irregularities from panoramic radiograph images** to support automated dental diagnosis and analysis.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Medical_Imaging-06B6D4?style=flat-square&labelColor=0B1020" alt="Medical Imaging"/> <img src="https://img.shields.io/badge/Machine_Learning-A855F7?style=flat-square&labelColor=0B1020" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Medical_Imaging-06B6D4?style=flat-square&labelColor=080B12" alt="Medical Imaging"/> <img src="https://img.shields.io/badge/Machine_Learning-00E5FF?style=flat-square&labelColor=080B12" alt="Machine Learning"/>
 
 <a href="https://github.com/ihsafy/dental-ai-pro"><b>View repository →</b></a>
 
@@ -183,44 +211,34 @@ PHP-based peer-to-peer marketplace that lets book lovers **buy, sell, and donate
 
 <div align="center">
 
-<a href="https://github.com/ihsafy?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-→-00E5FF?style=for-the-badge&labelColor=0B1020" alt="Browse all repositories"/></a>
+<a href="https://github.com/ihsafy?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-→-F5B942?style=for-the-badge&labelColor=080B12" alt="Browse all repositories"/></a>
 
 </div>
 
-<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
 
-## 📊 GitHub Statistics
+## Research Lab
 
-<div align="center">
+![MODULE 05](https://img.shields.io/badge/MODULE_05-SCIENCE_DIVISION-F5B942?style=flat-square&labelColor=080B12)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="IH SAFY's GitHub statistics"/>
-
-<img src="https://streak-stats.demolab.com/?user=ihsafy&theme=radical&hide_border=true&border_radius=12" alt="IH SAFY's contribution streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=8" alt="IH SAFY's most used languages"/>
-
-<br/>
-
-<img src="https://ghchart.rshah.org/00E5FF/ihsafy" alt="IH SAFY's contribution chart"/>
-
-</div>
-
-<!--
-  Contribution SNAKE animation (optional, requires one-time setup):
-  It is NOT shown here because it requires a GitHub Actions workflow in the "ihsafy" profile repo,
-  and the output branch does not exist yet. A broken image would appear until it is set up.
-  To enable it, add the Platane/snk action to ihsafy/ihsafy, then embed:
-  <img src="https://raw.githubusercontent.com/ihsafy/ihsafy/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
--->
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## 🔭 Currently Exploring
+*Topics grounded in my projects and profile — presented as research interests.*
 
 <table>
 <tr>
+<td width="33%" valign="top" align="center">
+
+### 🧠 Deep Learning
+
+Model training · fine-tuning<br/>CNNs · transfer learning
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🔍 Object Detection
+
+Detection pipelines · YOLO<br/>preprocessing & augmentation
+
+</td>
 <td width="33%" valign="top" align="center">
 
 ### 👁️ Computer Vision
@@ -228,49 +246,67 @@ PHP-based peer-to-peer marketplace that lets book lovers **buy, sell, and donate
 Detection · classification<br/>robust preprocessing
 
 </td>
-<td width="33%" valign="top" align="center">
-
-### 🩻 Medical Imaging
-
-Disease detection · scan<br/>enhancement · analysis
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 💬 LLM & RAG
-
-Retrieval pipelines · prompt<br/>design · automation
-
-</td>
 </tr>
 <tr>
-<td valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
-### 🤖 AI Agents
+### 🩻 Medical Image Analysis
 
-Tool use · workflows<br/>orchestration
+X-ray & MRI · enhancement<br/>automated diagnosis support
 
 </td>
-<td valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
-### 📈 Data Analytics
+### 📊 Data Analytics
 
 Cleaning · imputation · clustering<br/>dimensionality reduction
 
 </td>
-<td valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
-### 🚀 Inference Infra
+### 💬 LLM Engineering
 
-Scalable serving · Linux<br/>deployment · MLOps
+RAG · retrieval pipelines<br/>prompt design · automation
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
 
-## 🧭 Journey and Goals
+## Analytics Center
+
+![MODULE 06](https://img.shields.io/badge/MODULE_06-TELEMETRY-E62429?style=flat-square&labelColor=080B12)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=radical&hide_border=true&border_radius=12&rank_icon=github" alt="IH SAFY's GitHub statistics"/>
+
+<img src="https://streak-stats.demolab.com/?user=ihsafy&theme=radical&hide_border=true&border_radius=12" alt="IH SAFY's contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" alt="IH SAFY's most used languages"/>
+
+<br/>
+
+<img src="https://ghchart.rshah.org/F5B942/ihsafy" alt="IH SAFY's contribution chart"/>
+
+</div>
+
+<!--
+  Contribution SNAKE animation (optional, requires one-time setup):
+  Not shown because it needs a GitHub Actions workflow in the "ihsafy" profile repo,
+  and the output branch does not exist yet — a broken image would appear until it is set up.
+  To enable it, add the Platane/snk action to ihsafy/ihsafy, then embed:
+  <img src="https://raw.githubusercontent.com/ihsafy/ihsafy/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+-->
+
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
+
+## Current Mission
+
+![MODULE 07](https://img.shields.io/badge/MODULE_07-MISSION_CONTROL-00E5FF?style=flat-square&labelColor=080B12)
 
 <table>
 <tr>
@@ -287,7 +323,7 @@ Scalable serving · Linux<br/>deployment · MLOps
 </td>
 <td valign="top" width="45%">
 
-**🎯 Goals**
+**🎯 Active missions**
 
 - [x] Build and deploy full-stack apps on my own VPS
 - [x] Train and ship a medical-imaging classifier
@@ -301,9 +337,11 @@ Scalable serving · Linux<br/>deployment · MLOps
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
 
-## ❓ FAQ
+## Comms Log
+
+![MODULE 08](https://img.shields.io/badge/MODULE_08-COMMS_LOG-36A3FF?style=flat-square&labelColor=080B12)
 
 <details>
 <summary><b>What can I ask you about?</b></summary>
@@ -329,19 +367,21 @@ Collect and clean data → annotate → preprocess and augment → train and fin
 Email is fastest: <a href="mailto:ihsafy2k21@gmail.com">ihsafy2k21@gmail.com</a>
 </details>
 
-<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
 
-## 🌐 Connect With Me
+## Communication
+
+![MODULE 09](https://img.shields.io/badge/MODULE_09-UPLINK-F5B942?style=flat-square&labelColor=080B12)
 
 <div align="center">
 
-<a href="https://ihsafy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ihsafy.vercel.app-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1020" alt="Portfolio"/></a>
-<a href="mailto:ihsafy2k21@gmail.com"><img src="https://img.shields.io/badge/Email-ihsafy2k21@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" alt="Email ihsafy2k21@gmail.com"/></a>
-<a href="https://github.com/ihsafy"><img src="https://img.shields.io/badge/GitHub-ihsafy-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub profile"/></a>
+<a href="https://ihsafy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ihsafy.vercel.app-F5B942?style=for-the-badge&logo=vercel&logoColor=white&labelColor=080B12" alt="Portfolio"/></a>
+<a href="mailto:ihsafy2k21@gmail.com"><img src="https://img.shields.io/badge/Email-ihsafy2k21@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080B12" alt="Email ihsafy2k21@gmail.com"/></a>
+<a href="https://github.com/ihsafy"><img src="https://img.shields.io/badge/GitHub-ihsafy-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" alt="GitHub profile"/></a>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/jarvis-divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
@@ -349,6 +389,6 @@ Email is fastest: <a href="mailto:ihsafy2k21@gmail.com">ihsafy2k21@gmail.com</a>
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="IH SAFY — thanks for visiting"/>
+<img src="./assets/jarvis-footer.svg" width="100%" alt="IH SAFY — final transmission, JARVIS shutdown with arc reactor ring and holographic waves"/>
 
 </div>
