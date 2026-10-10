@@ -1,6 +1,5 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:4c1d95,100:0891b2&text=IH%20SAFY&fontColor=e0f2fe&fontSize=84&fontAlignY=45&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Medical%20Imaging%20%E2%80%A2%20LLM%20Systems&descSize=20&descAlignY=68" width="100%" alt="IH SAFY"/>
+<h1 align="center">IH SAFY</h1>
+<p align="center"><b>AI & ML Engineer · Computer Vision · Medical Imaging · LLM Systems</b></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=860&height=50&lines=Hi%2C+I'm+IH+SAFY;I+teach+machines+to+read+medical+scans;I+build+LLM+%2B+RAG+systems+that+ship;I+deploy+everything+on+my+own+Linux+servers" alt="typing"/>
 
