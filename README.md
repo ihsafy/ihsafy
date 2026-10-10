@@ -1,327 +1,167 @@
-<!-- ===================== IH SAFY • NEURAL EDITION FINAL ===================== -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:4c1d95,100:0891b2&text=IH%20SAFY&fontColor=e0f2fe&fontSize=84&fontAlignY=45&animation=twinkling&desc=Neural%20Networks%20%E2%80%A2%20Medical%20Vision%20%E2%80%A2%20LLM%20Systems&descSize=20&descAlignY=68" width="100%" alt="IH SAFY banner"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:0f172a,100:0891b2&text=IH%20SAFY&fontColor=f8fafc&fontSize=44&fontAlignY=55" width="100%" alt="IH SAFY"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=%3E+initializing+ih_safy.ai+...;%3E+loading+computer_vision+%E2%9C%94;%3E+loading+medical_imaging+%E2%9C%94;%3E+loading+llm_%2B_rag+%E2%9C%94;%3E+status%3A+building+the+future" alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&height=30&lines=AI+%26+ML+Engineer;Computer+Vision+%C2%B7+Medical+Imaging;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents" alt="typing"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ROLE-AI%20%26%20ML%20ENGINEER-0891b2?style=for-the-badge&labelColor=020617"/>
-  <img src="https://img.shields.io/badge/UNI-EAST%20WEST%20UNIVERSITY-7c3aed?style=for-the-badge&labelColor=020617"/>
-  <img src="https://img.shields.io/badge/BASE-DHAKA%2C%20BD-22c55e?style=for-the-badge&labelColor=020617"/>
-</p>
+<sub>B.Sc. CSE · East West University · Dhaka, Bangladesh 🇧🇩</sub>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihsafy&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge&labelColor=020617"/>
-  <img src="https://img.shields.io/github/followers/ihsafy?style=for-the-badge&logo=github&color=7c3aed&labelColor=020617"/>
-  <img src="https://img.shields.io/github/stars/ihsafy?style=for-the-badge&logo=github&color=f59e0b&labelColor=020617"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="#-whoami">Whoami</a> •
-  <a href="#-ai-pipeline">Pipeline</a> •
-  <a href="#-tech-arsenal">Skills</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-contribution-snake">Snake</a> •
-  <a href="#-contact">Contact</a>
-</p>
+<a href="mailto:ihsafy2k21@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=22d3ee" alt="Email"/></a>
+<a href="https://github.com/ihsafy"><img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=22d3ee" alt="GitHub"/></a>
+<img src="https://img.shields.io/github/followers/ihsafy?style=flat-square&label=Followers&labelColor=0f172a&color=0891b2" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=ihsafy&label=Views&style=flat-square&labelColor=0f172a&color=0891b2" alt="Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0891b2,50:7c3aed,100:0891b2" width="100%"/>
+</div>
 
-## 🛰️ whoami
-
-```bash
-$ cat ih_safy.profile
-
-  name       →  IH SAFY
-  location   →  Dhaka, Bangladesh 🇧🇩
-  education  →  B.Sc. CSE @ East West University
-  mission    →  Build impactful AI systems for real-world problems
-  focus      →  [ ML • DL • Computer Vision • Medical Imaging • LLM • RAG ]
-  status     →  ● online · learning · shipping
-```
-
-```python
-class IHSafy:
-    def __init__(self):
-        self.role = "AI & ML Engineer"
-        self.university = "East West University (CSE)"
-        self.domains = ["Computer Vision", "Medical Imaging", "LLM & RAG"]
-        self.stack = ["Python", "TensorFlow", "PyTorch", "OpenCV", "React", "Node.js"]
-        self.deploys_on = ["Linux VPS", "Domain + SSL"]
-
-    def mission(self):
-        return "Turn raw data into intelligent systems that help real people."
-
-me = IHSafy()
-print(me.mission())
-```
+<br/>
 
 > [!NOTE]
-> I build intelligent systems end to end: cleaning and annotating data, training and fine-tuning models, then deploying them on my own servers.
+> I build AI systems end to end: data → training → deployment on my own servers. Currently focused on **medical imaging** and **LLM + RAG** systems.
 
-## 🧬 AI Pipeline
+---
 
-```mermaid
-flowchart LR
-    A[Data Collection] --> B[Cleaning and Annotation]
-    B --> C[Preprocessing and Augmentation]
-    C --> D[Training and Fine-Tuning]
-    D --> E[Evaluation]
-    E --> F[Deploy on VPS with SSL]
-    F --> G[REST API and React UI]
-    E -. iterate .-> D
-```
+## ◆ About
 
-## 🗺️ Skill Map
+Turning raw data into intelligent systems that help real people.
 
-```mermaid
-mindmap
-  root((IH SAFY))
-    AI and ML
-      Machine Learning
-      Deep Learning
-      Model Training
-      Model Fine-Tuning
-      Computer Vision
-      LLMs
-    Medical Imaging
-      Detection
-      Processing
-      Enhancement
-      Leveling
-      Analysis
-    Data
-      Cleaning
-      Annotation
-      Preprocessing
-      Handling
-      Dataset Preparation
-      Augmentation
-    Web
-      HTML
-      CSS
-      React.js
-      Node.js
-      REST APIs
-    Infra
-      VPS
-      Server Hosting
-      Linux
-      Domain and SSL
-      Deployment
-```
+|  |  |
+|:--|:--|
+| 🎯 **Focus** | Machine Learning · Deep Learning · Computer Vision · Medical Imaging · LLMs · RAG |
+| 🔭 **Exploring** | AI Agents · RAG pipelines · Advanced CV · Scalable AI infrastructure |
+| 🚢 **Ships on** | Linux VPS · Domain + SSL · REST APIs · React UI |
+| 🌱 **Next** | Open-source AI contributions · Medical imaging research |
 
-## 🥧 Focus Split
+---
 
-```mermaid
-pie showData
-    title Where My Energy Goes
-    "Deep Learning and CV" : 30
-    "Medical Image Processing" : 25
-    "LLM and RAG" : 20
-    "Full Stack Web" : 15
-    "Deployment and Servers" : 10
-```
+## ◆ Stack
 
-## ⚙️ Tech Arsenal
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,jupyter&theme=dark" alt="AI"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,php,html,css&theme=dark" alt="Web"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,mongodb,postgres&theme=dark" alt="Core and DB"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,nginx,git,github,vscode,colab&theme=dark" alt="Infra"/>
+
+</div>
+
+<details>
+<summary><b>Full skill breakdown</b></summary>
+<br/>
+
+| Area | Skills |
+|:--|:--|
+| **AI / ML** | Machine Learning, Deep Learning, Model Training, Model Fine-Tuning, Computer Vision, LLMs |
+| **Medical Imaging** | Detection, Processing, Enhancement, Leveling, Analysis |
+| **Data** | Cleaning, Annotation, Preprocessing, Handling, Dataset Preparation, Augmentation |
+| **Web** | HTML, CSS, React.js, Node.js, REST APIs |
+| **Databases** | MySQL, MongoDB, PostgreSQL, SQL |
+| **Infra** | VPS, Server Hosting, Linux, Domain & SSL, Deployment |
+| **Languages** | C, C++, Java, Python, PHP, JavaScript |
+| **Tools** | Jupyter, Google Colab, XAMPP, Word, Excel, PowerPoint, Google Docs / Sheets / Slides |
+
+</details>
+
+---
+
+## ◆ Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**👨‍💻 Programming Languages**
+### 🧠 MindScanner AI
+**Alzheimer's MRI classification**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,php,js&theme=dark"/>
+CNN-based multi-class MRI analysis for AI-assisted disease prediction.
 
-`C` · `C++` · `Java` · `Python` · `PHP` · `JavaScript`
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
 
 </td>
 <td width="50%" valign="top">
 
-**🌐 Web Technologies**
+### 💎 Rora Luxe
+**Luxury e-commerce platform**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark"/>
+Full-stack marketplace with a responsive premium UI and secure backend.
 
-`HTML` · `CSS` · `React.js` · `Node.js` · `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**🗄️ Database Systems**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"/>
-
-`MySQL` · `MongoDB` · `PostgreSQL` · `SQL`
-
-</td>
-<td valign="top">
-
-**🤖 AI & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
-
-`Machine Learning` · `Deep Learning` · `Model Training` · `Model Fine-Tuning` · `Computer Vision` · `LLMs`
+<img src="https://img.shields.io/badge/PHP-0f172a?style=flat-square&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Bootstrap-0f172a?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**🩻 Medical Image Processing**
+### 📚 Book Seekers
+**Smart digital library**
 
-`Medical Image Detection` · `Image Processing` · `Image Enhancement` · `Image Leveling` · `Medical Image Analysis`
+Intelligent search, dynamic database management, optimized UX.
 
-</td>
-<td valign="top">
-
-**🧹 Data Handling & Preparation**
-
-`Data Cleaning` · `Data Annotation` · `Data Preprocessing` · `Data Handling` · `Dataset Preparation` · `Data Augmentation`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**🖥️ Server & Deployment**
-
-<img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
-
-`VPS` · `Server Hosting` · `Linux` · `Domain & SSL Configuration` · `Deployment`
+<img src="https://img.shields.io/badge/PHP-0f172a?style=flat-square&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1"/>
 
 </td>
 <td valign="top">
 
-**⚙️ Tools & Platforms**
+### 🍔 EWU Food Hub
+**Smart campus food platform**
 
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark"/>
+Student-focused food ordering with a fast, real-time responsive UI.
 
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**📎 Productivity Tools**
-
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Slides-FBBC04?style=flat-square&logo=googleslides&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 
 </td>
 </tr>
 </table>
 
-## 🧪 Skill Levels
+---
 
-```text
-Python & ML / DL        ████████████████████░░  90%
-Computer Vision         ███████████████████░░░  85%
-Medical Imaging         ██████████████████░░░░  80%
-LLM & RAG               ████████████████░░░░░░  75%
-Web (React / Node)      ████████████████░░░░░░  75%
-Databases               ████████████████░░░░░░  75%
-Linux & Deployment      ██████████████░░░░░░░░  70%
-```
+## ◆ Stats
 
-## 🚀 Featured Projects
+<div align="center">
 
-| 🧠 **MindScanner AI** | 💎 **Rora Luxe** |
-|:---|:---|
-| **Alzheimer's MRI Classification System** | **Luxury E-Commerce Platform** |
-| CNN-powered MRI analysis<br>Multi-class classification<br>AI-assisted disease prediction | Full-stack marketplace<br>Responsive premium UI<br>Secure backend architecture |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0891b2&icon_color=7c3aed&text_color=334155&count_private=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&hide_border=true&bg_color=ffffff&title_color=0891b2&text_color=334155">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</picture>
 
-| 📚 **Book Seekers** | 🍔 **EWU Food Hub** |
-|:---|:---|
-| **Smart Digital Library** | **Smart Campus Food Platform** |
-| Intelligent search system<br>Dynamic database management<br>Optimized user experience | Student-focused food solution<br>Real-time responsive UI<br>Fast interactive experience |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+<br/>
 
-## 🏗️ Typical System Architecture
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ihsafy&hide_border=true&background=0d1117&ring=22d3ee&fire=7c3aed&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ihsafy&hide_border=true&background=ffffff&ring=0891b2&fire=7c3aed&currStreakLabel=0891b2&sideLabels=334155&currStreakNum=334155&sideNums=334155&dates=64748b">
+  <img alt="Streak" src="https://streak-stats.demolab.com/?user=ihsafy&hide_border=true&theme=transparent" height="165"/>
+</picture>
 
-```mermaid
-flowchart TB
-    U[User] --> FE[React Frontend]
-    FE --> API[Node.js or PHP REST API]
-    API --> DB[(MySQL / MongoDB / PostgreSQL)]
-    API --> ML[Python Model Service]
-    ML --> IMG[Medical Image Processing]
-    API --> LLM[LLM and RAG Layer]
-    subgraph SERVER[Linux VPS with Domain and SSL]
-        FE
-        API
-        DB
-        ML
-        LLM
-    end
-```
+</div>
 
-## 🛣️ Roadmap
+---
 
-```mermaid
-timeline
-    title Journey Towards World-Class AI Engineer
-    Foundation : Core Programming : Databases : Web Development
-    Machine Learning : Model Training : Data Preparation : Augmentation
-    Specialization : Computer Vision : Medical Image Processing
-    Now : LLM Engineering : RAG Pipelines : AI Agents
-    Next : Scalable AI Infrastructure : Open-Source AI Contributions
-```
+## ◆ Contact
 
-## 🔭 Currently Exploring
+<div align="center">
 
-```diff
-+ LLM Engineering & AI Agents
-+ RAG Pipelines
-+ Advanced Computer Vision
-+ Medical Imaging Research
-+ Scalable AI Infrastructure & Deployment
-+ AI Automation
-```
+**ihsafy2k21@gmail.com** · [github.com/ihsafy](https://github.com/ihsafy)
 
-## 📊 GitHub Analytics
+<sub><i>"AI isn't replacing human potential, it's amplifying it."</i></sub>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ihsafy&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0f172a,100:0891b2" width="100%" alt="footer"/>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/ihsafy" alt="GitHub Contribution Chart"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihsafy/ihsafy/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihsafy/ihsafy/output/github-snake.svg">
-    <img alt="Contribution snake eating my commits" src="https://raw.githubusercontent.com/ihsafy/ihsafy/output/github-snake-dark.svg">
-  </picture>
-</p>
-
-## 🎯 Vision
-
-> [!TIP]
-> Researching Computer Vision and Medical Imaging, building automation with LLMs and RAG, contributing to impactful open-source AI, and working toward becoming a world-class AI Engineer.
-
-## 📡 Contact
-
-<p align="center">
-  <a href="mailto:ihsafy2k21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ihsafy2k21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/></a>
-  <a href="https://github.com/ihsafy"><img src="https://img.shields.io/badge/GITHUB-ihsafy-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/></a>
-</p>
-
-<p align="center"><i>"Artificial Intelligence is not replacing human potential, it is amplifying what humanity can become."</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=Thanks%20for%20visiting&fontColor=e0f2fe&fontSize=26&fontAlignY=70&color=0:0891b2,50:7c3aed,100:020617" width="100%" alt="footer"/>
+</div>
