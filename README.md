@@ -20,7 +20,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=ihsafy&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/ihsafy?style=for-the-badge&logo=github&color=7c3aed" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/ihsafy?style=for-the-badge&logo=github&color=f59e0b" alt="Stars"/>
 <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20LLM-06b6d4?style=for-the-badge" alt="Focus"/>
 
 </div>
@@ -64,13 +63,15 @@ Current Goal:
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php,js&theme=dark" alt="Programming languages"/>
 
+`C` `C++` `Java` `Python` `PHP` `JavaScript`
+
 <br><br>
 
 ### 🌐 Web Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web technologies"/>
 
-`REST APIs`
+`HTML` `CSS` `React.js` `Node.js` `REST APIs`
 
 <br><br>
 
@@ -78,7 +79,7 @@ Current Goal:
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="Databases"/>
 
-`SQL`
+`MySQL` `MongoDB` `PostgreSQL` `SQL`
 
 <br><br>
 
@@ -104,32 +105,32 @@ Current Goal:
 
 ### 🖥️ Server & Deployment
 
-<img src="https://skillicons.dev/icons?i=linux,docker&theme=dark" alt="Server and deployment"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/>
 
-`VPS` `Server Hosting` `Domain & SSL Configuration` `Deployment`
+`VPS` `Server Hosting` `Linux` `Domain & SSL Configuration` `Deployment`
+
+<br><br>
+
+### 📎 Productivity Tools
+
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge" alt="Microsoft Word"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge" alt="Microsoft PowerPoint"/>
+<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+<img src="https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=white" alt="Google Slides"/>
 
 <br><br>
 
 ### ⚙️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="GitHub and VS Code"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-
-<br><br>
-
-### 📎 Productivity Tools
-
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
-<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-<img src="https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=white" alt="Google Slides"/>
 
 </div>
 
@@ -234,17 +235,13 @@ Current Goal:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihsafy&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsafy&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ihsafy&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/2563eb/ihsafy" alt="GitHub Contribution Chart"/>
 </p>
+
 ---
 
 # 🏆 Achievements & Vision
@@ -276,23 +273,18 @@ Current Goal:
 
 ---
 
-# 🐍 Contribution Snake
-
-# 🏆 GitHub Trophies
-
 # 🏆 GitHub Highlights
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CSE-East_West_University-2563eb?style=for-the-badge&logo=googlescholar&logoColor=white" alt="EWU CSE"/>
-<img src="https://img.shields.io/badge/Focus-AI_%7C_ML_%7C_LLM-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="Focus"/>
+<img src="https://img.shields.io/badge/CSE-East_West_University-2563eb?style=for-the-badge" alt="EWU CSE"/>
+<img src="https://img.shields.io/badge/Focus-AI_%7C_ML_%7C_LLM-7c3aed?style=for-the-badge" alt="Focus"/>
 <img src="https://img.shields.io/badge/Medical_Image_Processing-06b6d4?style=for-the-badge&logo=opencv&logoColor=white" alt="Medical Image Processing"/>
 
 <br>
 
 <img src="https://img.shields.io/github/followers/ihsafy?style=for-the-badge&logo=github&color=7c3aed" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/ihsafy?style=for-the-badge&logo=github&color=f59e0b" alt="Stars"/>
-<img src="https://img.shields.io/github/languages/count/ihsafy/ihsafy?style=for-the-badge&logo=github&color=0ea5e9" alt="Languages"/>
 
 </div>
 
@@ -308,10 +300,6 @@ Current Goal:
 
 <a href="https://github.com/ihsafy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
