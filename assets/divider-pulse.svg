@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12" role="img" aria-label="Animated pulse divider">
+  <defs>
+    <filter id="pglow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    @keyframes travel { from { transform: translateX(0); } to { transform: translateX(1200px); } }
+    @keyframes flick { 0%, 100% { opacity: 0.25; } 50% { opacity: 0.9; } }
+    .line { animation: flick 3s ease-in-out infinite; }
+    .dot { animation: travel 3.6s linear infinite; }
+  </style>
+  <line x1="0" y1="6" x2="1200" y2="6" stroke="#1B2E4D" stroke-width="2" stroke-dasharray="6 10" class="line"/>
+  <circle class="dot" cx="4" cy="6" r="4" fill="#00E5FF" filter="url(#pglow)"/>
+</svg>
